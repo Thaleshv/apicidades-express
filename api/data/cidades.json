@@ -1,0 +1,5628 @@
+{
+  "cidades": {
+    "data": [
+        {
+            "id": "80322",
+            "cidade": "ADAMANTINA",
+            "estado": "SP",
+            "codMunIbge": "3500105"
+        },
+        {
+            "id": "80330",
+            "cidade": "ADOLFO",
+            "estado": "SP",
+            "codMunIbge": "3500204"
+        },
+        {
+            "id": "80349",
+            "cidade": "AGISSE",
+            "estado": "SP",
+            "codMunIbge": "3542206"
+        },
+        {
+            "id": "80357",
+            "cidade": "AGUA VERMELHA",
+            "estado": "SP",
+            "codMunIbge": "3548906"
+        },
+        {
+            "id": "80365",
+            "cidade": "AGUAI",
+            "estado": "SP",
+            "codMunIbge": "3500303"
+        },
+        {
+            "id": "80373",
+            "cidade": "AGUAS DA PRATA",
+            "estado": "SP",
+            "codMunIbge": "3500402"
+        },
+        {
+            "id": "80381",
+            "cidade": "AGUAS DE LINDOIA",
+            "estado": "SP",
+            "codMunIbge": "3500501"
+        },
+        {
+            "id": "80390",
+            "cidade": "AGUAS DE SANTA BARBARA",
+            "estado": "SP",
+            "codMunIbge": "3500550"
+        },
+        {
+            "id": "80403",
+            "cidade": "AGUAS DE SAO PEDRO",
+            "estado": "SP",
+            "codMunIbge": "3500600"
+        },
+        {
+            "id": "80411",
+            "cidade": "AGUDOS",
+            "estado": "SP",
+            "codMunIbge": "3500709"
+        },
+        {
+            "id": "80420",
+            "cidade": "AGULHA",
+            "estado": "SP",
+            "codMunIbge": "3515608"
+        },
+        {
+            "id": "80438",
+            "cidade": "AJAPI",
+            "estado": "SP",
+            "codMunIbge": "3543907"
+        },
+        {
+            "id": "80446",
+            "cidade": "ALAMBARI",
+            "estado": "SP",
+            "codMunIbge": "3500758"
+        },
+        {
+            "id": "80454",
+            "cidade": "ALBERTO MOREIRA",
+            "estado": "SP",
+            "codMunIbge": "3505500"
+        },
+        {
+            "id": "80462",
+            "cidade": "ALDEIA",
+            "estado": "SP",
+            "codMunIbge": "3505708"
+        },
+        {
+            "id": "80470",
+            "cidade": "ALFREDO GUEDES",
+            "estado": "SP",
+            "codMunIbge": "3526803"
+        },
+        {
+            "id": "80489",
+            "cidade": "ALFREDO MARCONDES",
+            "estado": "SP",
+            "codMunIbge": "3500808"
+        },
+        {
+            "id": "80497",
+            "cidade": "ALTAIR",
+            "estado": "SP",
+            "codMunIbge": "3500907"
+        },
+        {
+            "id": "80500",
+            "cidade": "ALTINOPOLIS",
+            "estado": "SP",
+            "codMunIbge": "3501004"
+        },
+        {
+            "id": "80519",
+            "cidade": "ALTO ALEGRE",
+            "estado": "SP",
+            "codMunIbge": "3501103"
+        },
+        {
+            "id": "80527",
+            "cidade": "ALTO PORA",
+            "estado": "SP",
+            "codMunIbge": "3537008"
+        },
+        {
+            "id": "80535",
+            "cidade": "ALUMINIO",
+            "estado": "SP",
+            "codMunIbge": "3501152"
+        },
+        {
+            "id": "80543",
+            "cidade": "ALVARES FLORENCE",
+            "estado": "SP",
+            "codMunIbge": "3501202"
+        },
+        {
+            "id": "80551",
+            "cidade": "ALVARES MACHADO",
+            "estado": "SP",
+            "codMunIbge": "3501301"
+        },
+        {
+            "id": "80560",
+            "cidade": "ALVARO DE CARVALHO",
+            "estado": "SP",
+            "codMunIbge": "3501400"
+        },
+        {
+            "id": "80578",
+            "cidade": "ALVINLANDIA",
+            "estado": "SP",
+            "codMunIbge": "3501509"
+        },
+        {
+            "id": "80586",
+            "cidade": "AMADEU AMARAL",
+            "estado": "SP",
+            "codMunIbge": "3529005"
+        },
+        {
+            "id": "80594",
+            "cidade": "AMANDABA",
+            "estado": "SP",
+            "codMunIbge": "3530102"
+        },
+        {
+            "id": "80608",
+            "cidade": "AMELIOPOLIS",
+            "estado": "SP",
+            "codMunIbge": "3541406"
+        },
+        {
+            "id": "80616",
+            "cidade": "AMERICANA",
+            "estado": "SP",
+            "codMunIbge": "3501608"
+        },
+        {
+            "id": "80624",
+            "cidade": "AMERICO BRASILIENSE",
+            "estado": "SP",
+            "codMunIbge": "3501707"
+        },
+        {
+            "id": "80632",
+            "cidade": "AMERICO DE CAMPOS",
+            "estado": "SP",
+            "codMunIbge": "3501806"
+        },
+        {
+            "id": "80640",
+            "cidade": "AMPARO",
+            "estado": "SP",
+            "codMunIbge": "3501905"
+        },
+        {
+            "id": "80659",
+            "cidade": "ANA DIAS",
+            "estado": "SP",
+            "codMunIbge": "3523305"
+        },
+        {
+            "id": "80667",
+            "cidade": "ANALANDIA",
+            "estado": "SP",
+            "codMunIbge": "3502002"
+        },
+        {
+            "id": "80675",
+            "cidade": "ANAPOLIS",
+            "estado": "SP",
+            "codMunIbge": "3519204"
+        },
+        {
+            "id": "80691",
+            "cidade": "ANDRADINA",
+            "estado": "SP",
+            "codMunIbge": "3502101"
+        },
+        {
+            "id": "80705",
+            "cidade": "ANGATUBA",
+            "estado": "SP",
+            "codMunIbge": "3502200"
+        },
+        {
+            "id": "80713",
+            "cidade": "ANHEMBI",
+            "estado": "SP",
+            "codMunIbge": "3502309"
+        },
+        {
+            "id": "80721",
+            "cidade": "ANHUMAS",
+            "estado": "SP",
+            "codMunIbge": "3502408"
+        },
+        {
+            "id": "80730",
+            "cidade": "APARECIDA",
+            "estado": "SP",
+            "codMunIbge": "3502507"
+        },
+        {
+            "id": "80748",
+            "cidade": "APARECIDA D'OESTE",
+            "estado": "SP",
+            "codMunIbge": "3502606"
+        },
+        {
+            "id": "80756",
+            "cidade": "APARECIDA DE SAO MANUEL",
+            "estado": "SP",
+            "codMunIbge": "3550100"
+        },
+        {
+            "id": "80764",
+            "cidade": "APARECIDA DO BONITO",
+            "estado": "SP",
+            "codMunIbge": "3547403"
+        },
+        {
+            "id": "80772",
+            "cidade": "APIAI",
+            "estado": "SP",
+            "codMunIbge": "3502705"
+        },
+        {
+            "id": "80780",
+            "cidade": "ARABELA",
+            "estado": "SP",
+            "codMunIbge": "3534807"
+        },
+        {
+            "id": "80799",
+            "cidade": "ARACACU",
+            "estado": "SP",
+            "codMunIbge": "3508009"
+        },
+        {
+            "id": "80802",
+            "cidade": "ARACAIBA",
+            "estado": "SP",
+            "codMunIbge": "3502705"
+        },
+        {
+            "id": "80810",
+            "cidade": "ARACARIGUAMA",
+            "estado": "SP",
+            "codMunIbge": "3502754"
+        },
+        {
+            "id": "80829",
+            "cidade": "ARACATUBA",
+            "estado": "SP",
+            "codMunIbge": "3502804"
+        },
+        {
+            "id": "80837",
+            "cidade": "ARACOIABA DA SERRA",
+            "estado": "SP",
+            "codMunIbge": "3502903"
+        },
+        {
+            "id": "80845",
+            "cidade": "ARAMINA",
+            "estado": "SP",
+            "codMunIbge": "3503000"
+        },
+        {
+            "id": "80853",
+            "cidade": "ARANDU",
+            "estado": "SP",
+            "codMunIbge": "3503109"
+        },
+        {
+            "id": "80861",
+            "cidade": "ARAPEI",
+            "estado": "SP",
+            "codMunIbge": "3503158"
+        },
+        {
+            "id": "80870",
+            "cidade": "ARARAQUARA",
+            "estado": "SP",
+            "codMunIbge": "3503208"
+        },
+        {
+            "id": "80888",
+            "cidade": "ARARAS",
+            "estado": "SP",
+            "codMunIbge": "3503307"
+        },
+        {
+            "id": "80896",
+            "cidade": "ARAXAS",
+            "estado": "SP",
+            "codMunIbge": "3541208"
+        },
+        {
+            "id": "80900",
+            "cidade": "ARCADAS",
+            "estado": "SP",
+            "codMunIbge": "3501905"
+        },
+        {
+            "id": "80918",
+            "cidade": "ARCO IRIS",
+            "estado": "SP",
+            "codMunIbge": "3555000"
+        },
+        {
+            "id": "80926",
+            "cidade": "AREALVA",
+            "estado": "SP",
+            "codMunIbge": "3503406"
+        },
+        {
+            "id": "80934",
+            "cidade": "AREIAS",
+            "estado": "SP",
+            "codMunIbge": "3503505"
+        },
+        {
+            "id": "80942",
+            "cidade": "AREIOPOLIS",
+            "estado": "SP",
+            "codMunIbge": "3503604"
+        },
+        {
+            "id": "80950",
+            "cidade": "ARIRANHA",
+            "estado": "SP",
+            "codMunIbge": "3503703"
+        },
+        {
+            "id": "80969",
+            "cidade": "ARIRI",
+            "estado": "SP",
+            "codMunIbge": "3509908"
+        },
+        {
+            "id": "80977",
+            "cidade": "ARTEMIS",
+            "estado": "SP",
+            "codMunIbge": "3538709"
+        },
+        {
+            "id": "80985",
+            "cidade": "ARTUR NOGUEIRA",
+            "estado": "SP",
+            "codMunIbge": "3503802"
+        },
+        {
+            "id": "80993",
+            "cidade": "ARUJA",
+            "estado": "SP",
+            "codMunIbge": "3503901"
+        },
+        {
+            "id": "81000",
+            "cidade": "ASPASIA",
+            "estado": "SP",
+            "codMunIbge": "3503950"
+        },
+        {
+            "id": "81019",
+            "cidade": "ASSIS",
+            "estado": "SP",
+            "codMunIbge": "3504008"
+        },
+        {
+            "id": "81027",
+            "cidade": "ASSISTENCIA",
+            "estado": "SP",
+            "codMunIbge": "3543907"
+        },
+        {
+            "id": "81035",
+            "cidade": "ATIBAIA",
+            "estado": "SP",
+            "codMunIbge": "3504107"
+        },
+        {
+            "id": "81043",
+            "cidade": "ATLANTIDA",
+            "estado": "SP",
+            "codMunIbge": "3516002"
+        },
+        {
+            "id": "81051",
+            "cidade": "AURIFLAMA",
+            "estado": "SP",
+            "codMunIbge": "3504206"
+        },
+        {
+            "id": "81060",
+            "cidade": "AVAI",
+            "estado": "SP",
+            "codMunIbge": "3504305"
+        },
+        {
+            "id": "81078",
+            "cidade": "AVANHANDAVA",
+            "estado": "SP",
+            "codMunIbge": "3504404"
+        },
+        {
+            "id": "81086",
+            "cidade": "AVARE",
+            "estado": "SP",
+            "codMunIbge": "3504503"
+        },
+        {
+            "id": "81094",
+            "cidade": "AVENCAS",
+            "estado": "SP",
+            "codMunIbge": "3529005"
+        },
+        {
+            "id": "81108",
+            "cidade": "BACAETAVA",
+            "estado": "SP",
+            "codMunIbge": "3521002"
+        },
+        {
+            "id": "81116",
+            "cidade": "BACURITI",
+            "estado": "SP",
+            "codMunIbge": "3508801"
+        },
+        {
+            "id": "81124",
+            "cidade": "BADY BASSITT",
+            "estado": "SP",
+            "codMunIbge": "3504602"
+        },
+        {
+            "id": "81132",
+            "cidade": "BAGUACU",
+            "estado": "SP",
+            "codMunIbge": "3533908"
+        },
+        {
+            "id": "81140",
+            "cidade": "BAIRRO ALTO",
+            "estado": "SP",
+            "codMunIbge": "3532306"
+        },
+        {
+            "id": "81175",
+            "cidade": "BALBINOS",
+            "estado": "SP",
+            "codMunIbge": "3504701"
+        },
+        {
+            "id": "81183",
+            "cidade": "BALSAMO",
+            "estado": "SP",
+            "codMunIbge": "3504800"
+        },
+        {
+            "id": "81191",
+            "cidade": "BANANAL",
+            "estado": "SP",
+            "codMunIbge": "3504909"
+        },
+        {
+            "id": "81213",
+            "cidade": "BARAO ATALIBA NOGUEIRA",
+            "estado": "SP",
+            "codMunIbge": "3522604"
+        },
+        {
+            "id": "81221",
+            "cidade": "BARAO DE ANTONINA",
+            "estado": "SP",
+            "codMunIbge": "3505005"
+        },
+        {
+            "id": "81230",
+            "cidade": "BARBOSA",
+            "estado": "SP",
+            "codMunIbge": "3505104"
+        },
+        {
+            "id": "81248",
+            "cidade": "BARIRI",
+            "estado": "SP",
+            "codMunIbge": "3505203"
+        },
+        {
+            "id": "81256",
+            "cidade": "BARRA BONITA",
+            "estado": "SP",
+            "codMunIbge": "3505302"
+        },
+        {
+            "id": "81264",
+            "cidade": "BARRA DO CHAPEU",
+            "estado": "SP",
+            "codMunIbge": "3505351"
+        },
+        {
+            "id": "81272",
+            "cidade": "BARRA DO TURVO",
+            "estado": "SP",
+            "codMunIbge": "3505401"
+        },
+        {
+            "id": "81280",
+            "cidade": "BARRA DOURADA",
+            "estado": "SP",
+            "codMunIbge": "3532504"
+        },
+        {
+            "id": "81299",
+            "cidade": "BARRANIA",
+            "estado": "SP",
+            "codMunIbge": "3508702"
+        },
+        {
+            "id": "81302",
+            "cidade": "BARRETOS",
+            "estado": "SP",
+            "codMunIbge": "3505500"
+        },
+        {
+            "id": "81310",
+            "cidade": "BARRINHA",
+            "estado": "SP",
+            "codMunIbge": "3505609"
+        },
+        {
+            "id": "81329",
+            "cidade": "BARUERI",
+            "estado": "SP",
+            "codMunIbge": "3505708"
+        },
+        {
+            "id": "81337",
+            "cidade": "BASTOS",
+            "estado": "SP",
+            "codMunIbge": "3505807"
+        },
+        {
+            "id": "81345",
+            "cidade": "BATATAIS",
+            "estado": "SP",
+            "codMunIbge": "3505906"
+        },
+        {
+            "id": "81353",
+            "cidade": "BATATUBA",
+            "estado": "SP",
+            "codMunIbge": "3538600"
+        },
+        {
+            "id": "81361",
+            "cidade": "BATISTA BOTELHO",
+            "estado": "SP",
+            "codMunIbge": "3533809"
+        },
+        {
+            "id": "81370",
+            "cidade": "BAURU",
+            "estado": "SP",
+            "codMunIbge": "3506003"
+        },
+        {
+            "id": "81388",
+            "cidade": "BEBEDOURO",
+            "estado": "SP",
+            "codMunIbge": "3506102"
+        },
+        {
+            "id": "81396",
+            "cidade": "BELA FLORESTA",
+            "estado": "SP",
+            "codMunIbge": "3537404"
+        },
+        {
+            "id": "81400",
+            "cidade": "BELA VISTA SAO CARLENSE",
+            "estado": "SP",
+            "codMunIbge": "3548906"
+        },
+        {
+            "id": "81418",
+            "cidade": "BENTO DE ABREU",
+            "estado": "SP",
+            "codMunIbge": "3506201"
+        },
+        {
+            "id": "81426",
+            "cidade": "BERNARDINO DE CAMPOS",
+            "estado": "SP",
+            "codMunIbge": "3506300"
+        },
+        {
+            "id": "81434",
+            "cidade": "BERTIOGA",
+            "estado": "SP",
+            "codMunIbge": "3506359"
+        },
+        {
+            "id": "81442",
+            "cidade": "BILAC",
+            "estado": "SP",
+            "codMunIbge": "3506409"
+        },
+        {
+            "id": "81450",
+            "cidade": "BIRIGUI",
+            "estado": "SP",
+            "codMunIbge": "3506508"
+        },
+        {
+            "id": "81469",
+            "cidade": "BIRITIBA MIRIM",
+            "estado": "SP",
+            "codMunIbge": "3506607"
+        },
+        {
+            "id": "81477",
+            "cidade": "BIRITIBA USSU",
+            "estado": "SP",
+            "codMunIbge": "3530607"
+        },
+        {
+            "id": "81485",
+            "cidade": "BOA ESPERANCA DO SUL",
+            "estado": "SP",
+            "codMunIbge": "3506706"
+        },
+        {
+            "id": "81493",
+            "cidade": "BOA VISTA DOS ANDRADAS",
+            "estado": "SP",
+            "codMunIbge": "3501202"
+        },
+        {
+            "id": "81507",
+            "cidade": "BOA VISTA PAULISTA",
+            "estado": "SP",
+            "codMunIbge": "3552502"
+        },
+        {
+            "id": "81515",
+            "cidade": "BOCAINA",
+            "estado": "SP",
+            "codMunIbge": "3506805"
+        },
+        {
+            "id": "81523",
+            "cidade": "BOFETE",
+            "estado": "SP",
+            "codMunIbge": "3506904"
+        },
+        {
+            "id": "81531",
+            "cidade": "BOITUVA",
+            "estado": "SP",
+            "codMunIbge": "3507001"
+        },
+        {
+            "id": "81540",
+            "cidade": "BOM FIM DO BOM JESUS",
+            "estado": "SP",
+            "codMunIbge": "3508405"
+        },
+        {
+            "id": "81558",
+            "cidade": "BOM JESUS DOS PERDOES",
+            "estado": "SP",
+            "codMunIbge": "3507100"
+        },
+        {
+            "id": "81566",
+            "cidade": "BONFIM PAULISTA",
+            "estado": "SP",
+            "codMunIbge": "3543402"
+        },
+        {
+            "id": "81574",
+            "cidade": "BORA",
+            "estado": "SP",
+            "codMunIbge": "3507209"
+        },
+        {
+            "id": "81582",
+            "cidade": "BORACEIA",
+            "estado": "SP",
+            "codMunIbge": "3507308"
+        },
+        {
+            "id": "81590",
+            "cidade": "BORBOREMA",
+            "estado": "SP",
+            "codMunIbge": "3507407"
+        },
+        {
+            "id": "81604",
+            "cidade": "BOREBI",
+            "estado": "SP",
+            "codMunIbge": "3507456"
+        },
+        {
+            "id": "81612",
+            "cidade": "BOTAFOGO",
+            "estado": "SP",
+            "codMunIbge": "3506102"
+        },
+        {
+            "id": "81620",
+            "cidade": "BOTELHO",
+            "estado": "SP",
+            "codMunIbge": "3545605"
+        },
+        {
+            "id": "81639",
+            "cidade": "BOTUCATU",
+            "estado": "SP",
+            "codMunIbge": "3507506"
+        },
+        {
+            "id": "81647",
+            "cidade": "BRACO",
+            "estado": "SP",
+            "codMunIbge": "3514809"
+        },
+        {
+            "id": "81655",
+            "cidade": "BRAGANCA PAULISTA",
+            "estado": "SP",
+            "codMunIbge": "3507605"
+        },
+        {
+            "id": "81663",
+            "cidade": "BRAS CUBAS",
+            "estado": "SP",
+            "codMunIbge": "3530607"
+        },
+        {
+            "id": "81671",
+            "cidade": "BRASITANIA",
+            "estado": "SP",
+            "codMunIbge": "3515509"
+        },
+        {
+            "id": "81680",
+            "cidade": "BRAUNA",
+            "estado": "SP",
+            "codMunIbge": "3507704"
+        },
+        {
+            "id": "81698",
+            "cidade": "BREJO ALEGRE",
+            "estado": "SP",
+            "codMunIbge": "3507753"
+        },
+        {
+            "id": "81710",
+            "cidade": "BRODOWSKI",
+            "estado": "SP",
+            "codMunIbge": "3507803"
+        },
+        {
+            "id": "81728",
+            "cidade": "BROTAS",
+            "estado": "SP",
+            "codMunIbge": "3507902"
+        },
+        {
+            "id": "81736",
+            "cidade": "BUENO DE ANDRADA",
+            "estado": "SP",
+            "codMunIbge": "3503208"
+        },
+        {
+            "id": "81744",
+            "cidade": "BURI",
+            "estado": "SP",
+            "codMunIbge": "3508009"
+        },
+        {
+            "id": "81752",
+            "cidade": "BURITAMA",
+            "estado": "SP",
+            "codMunIbge": "3508108"
+        },
+        {
+            "id": "81760",
+            "cidade": "BURITIZAL",
+            "estado": "SP",
+            "codMunIbge": "3508207"
+        },
+        {
+            "id": "81779",
+            "cidade": "CABRALIA PAULISTA",
+            "estado": "SP",
+            "codMunIbge": "3508306"
+        },
+        {
+            "id": "81787",
+            "cidade": "CABREUVA",
+            "estado": "SP",
+            "codMunIbge": "3508405"
+        },
+        {
+            "id": "81795",
+            "cidade": "CACAPAVA",
+            "estado": "SP",
+            "codMunIbge": "3508504"
+        },
+        {
+            "id": "81809",
+            "cidade": "CACHOEIRA DE EMAS",
+            "estado": "SP",
+            "codMunIbge": "3539301"
+        },
+        {
+            "id": "81817",
+            "cidade": "CACHOEIRA PAULISTA",
+            "estado": "SP",
+            "codMunIbge": "3508603"
+        },
+        {
+            "id": "81825",
+            "cidade": "CACONDE",
+            "estado": "SP",
+            "codMunIbge": "3508702"
+        },
+        {
+            "id": "81833",
+            "cidade": "CAFELANDIA",
+            "estado": "SP",
+            "codMunIbge": "3508801"
+        },
+        {
+            "id": "81841",
+            "cidade": "CAFESOPOLIS",
+            "estado": "SP",
+            "codMunIbge": "3508801"
+        },
+        {
+            "id": "81850",
+            "cidade": "CAIABU",
+            "estado": "SP",
+            "codMunIbge": "3508900"
+        },
+        {
+            "id": "81868",
+            "cidade": "CAIEIRAS",
+            "estado": "SP",
+            "codMunIbge": "3509007"
+        },
+        {
+            "id": "81876",
+            "cidade": "CAIUA",
+            "estado": "SP",
+            "codMunIbge": "3509106"
+        },
+        {
+            "id": "81884",
+            "cidade": "CAJAMAR",
+            "estado": "SP",
+            "codMunIbge": "3509205"
+        },
+        {
+            "id": "81892",
+            "cidade": "CAJATI",
+            "estado": "SP",
+            "codMunIbge": "3509254"
+        },
+        {
+            "id": "81906",
+            "cidade": "CAJOBI",
+            "estado": "SP",
+            "codMunIbge": "3509304"
+        },
+        {
+            "id": "81914",
+            "cidade": "CAJURU",
+            "estado": "SP",
+            "codMunIbge": "3509403"
+        },
+        {
+            "id": "81930",
+            "cidade": "CAMBAQUARA",
+            "estado": "SP",
+            "codMunIbge": "3520400"
+        },
+        {
+            "id": "81949",
+            "cidade": "CAMBARATIBA",
+            "estado": "SP",
+            "codMunIbge": "3519600"
+        },
+        {
+            "id": "81957",
+            "cidade": "CAMPESTRINHO",
+            "estado": "SP",
+            "codMunIbge": "3513900"
+        },
+        {
+            "id": "81965",
+            "cidade": "CAMPINA DO MONTE ALEGRE",
+            "estado": "SP",
+            "codMunIbge": "3509452"
+        },
+        {
+            "id": "81973",
+            "cidade": "NOVA CAMPINA",
+            "estado": "SP",
+            "codMunIbge": "3532827"
+        },
+        {
+            "id": "81981",
+            "cidade": "CAMPINAL",
+            "estado": "SP",
+            "codMunIbge": "3541307"
+        },
+        {
+            "id": "81990",
+            "cidade": "CAMPINAS",
+            "estado": "SP",
+            "codMunIbge": "3509502"
+        },
+        {
+            "id": "82007",
+            "cidade": "CAMPO LIMPO PAULISTA",
+            "estado": "SP",
+            "codMunIbge": "3509601"
+        },
+        {
+            "id": "82015",
+            "cidade": "CAMPOS DE CUNHA",
+            "estado": "SP",
+            "codMunIbge": "3513603"
+        },
+        {
+            "id": "82023",
+            "cidade": "CAMPOS DO JORDAO",
+            "estado": "SP",
+            "codMunIbge": "3509700"
+        },
+        {
+            "id": "82031",
+            "cidade": "CAMPOS NOVOS PAULISTA",
+            "estado": "SP",
+            "codMunIbge": "3509809"
+        },
+        {
+            "id": "82040",
+            "cidade": "CANANEIA",
+            "estado": "SP",
+            "codMunIbge": "3509908"
+        },
+        {
+            "id": "82058",
+            "cidade": "CANAS",
+            "estado": "SP",
+            "codMunIbge": "3509957"
+        },
+        {
+            "id": "82066",
+            "cidade": "CANDIA",
+            "estado": "SP",
+            "codMunIbge": "3540200"
+        },
+        {
+            "id": "82074",
+            "cidade": "CANDIDO MOTA",
+            "estado": "SP",
+            "codMunIbge": "3510005"
+        },
+        {
+            "id": "82082",
+            "cidade": "CANDIDO RODRIGUES",
+            "estado": "SP",
+            "codMunIbge": "3510104"
+        },
+        {
+            "id": "82090",
+            "cidade": "CANGUERA",
+            "estado": "SP",
+            "codMunIbge": "3550605"
+        },
+        {
+            "id": "82104",
+            "cidade": "CANITAR",
+            "estado": "SP",
+            "codMunIbge": "3510153"
+        },
+        {
+            "id": "82112",
+            "cidade": "CAPAO BONITO",
+            "estado": "SP",
+            "codMunIbge": "3510203"
+        },
+        {
+            "id": "82120",
+            "cidade": "CAPELA DO ALTO",
+            "estado": "SP",
+            "codMunIbge": "3510302"
+        },
+        {
+            "id": "82139",
+            "cidade": "CAPIVARI",
+            "estado": "SP",
+            "codMunIbge": "3510401"
+        },
+        {
+            "id": "82147",
+            "cidade": "CAPIVARI DA MATA",
+            "estado": "SP",
+            "codMunIbge": "3524105"
+        },
+        {
+            "id": "82155",
+            "cidade": "CAPORANGA",
+            "estado": "SP",
+            "codMunIbge": "3546405"
+        },
+        {
+            "id": "82163",
+            "cidade": "CARAGUATATUBA",
+            "estado": "SP",
+            "codMunIbge": "3510500"
+        },
+        {
+            "id": "82171",
+            "cidade": "CARAPICUIBA",
+            "estado": "SP",
+            "codMunIbge": "3510609"
+        },
+        {
+            "id": "82180",
+            "cidade": "CARDEAL",
+            "estado": "SP",
+            "codMunIbge": "3514908"
+        },
+        {
+            "id": "82201",
+            "cidade": "CASA BRANCA",
+            "estado": "SP",
+            "codMunIbge": "3510807"
+        },
+        {
+            "id": "82210",
+            "cidade": "CASSIA DOS COQUEIROS",
+            "estado": "SP",
+            "codMunIbge": "3510906"
+        },
+        {
+            "id": "82228",
+            "cidade": "CASTILHO",
+            "estado": "SP",
+            "codMunIbge": "3511003"
+        },
+        {
+            "id": "82236",
+            "cidade": "CATANDUVA",
+            "estado": "SP",
+            "codMunIbge": "3511102"
+        },
+        {
+            "id": "82244",
+            "cidade": "CATIGUA",
+            "estado": "SP",
+            "codMunIbge": "3511201"
+        },
+        {
+            "id": "82252",
+            "cidade": "CATUCABA",
+            "estado": "SP",
+            "codMunIbge": "3550001"
+        },
+        {
+            "id": "82260",
+            "cidade": "CAUCAIA DO ALTO",
+            "estado": "SP",
+            "codMunIbge": "3513009"
+        },
+        {
+            "id": "82279",
+            "cidade": "CEDRAL",
+            "estado": "SP",
+            "codMunIbge": "3511300"
+        },
+        {
+            "id": "82287",
+            "cidade": "CERQUEIRA CESAR",
+            "estado": "SP",
+            "codMunIbge": "3511409"
+        },
+        {
+            "id": "82295",
+            "cidade": "CERQUILHO",
+            "estado": "SP",
+            "codMunIbge": "3511508"
+        },
+        {
+            "id": "82317",
+            "cidade": "CESARIO LANGE",
+            "estado": "SP",
+            "codMunIbge": "3511607"
+        },
+        {
+            "id": "82325",
+            "cidade": "CEZAR DE SOUZA",
+            "estado": "SP",
+            "codMunIbge": "3530607"
+        },
+        {
+            "id": "82333",
+            "cidade": "CHARQUEADA",
+            "estado": "SP",
+            "codMunIbge": "3511706"
+        },
+        {
+            "id": "82341",
+            "cidade": "CHAVANTES",
+            "estado": "SP",
+            "codMunIbge": "3557204"
+        },
+        {
+            "id": "82368",
+            "cidade": "CLARINIA",
+            "estado": "SP",
+            "codMunIbge": "3546405"
+        },
+        {
+            "id": "82376",
+            "cidade": "CLEMENTINA",
+            "estado": "SP",
+            "codMunIbge": "3511904"
+        },
+        {
+            "id": "82384",
+            "cidade": "COLINA",
+            "estado": "SP",
+            "codMunIbge": "3512001"
+        },
+        {
+            "id": "82392",
+            "cidade": "COLOMBIA",
+            "estado": "SP",
+            "codMunIbge": "3512100"
+        },
+        {
+            "id": "82406",
+            "cidade": "CONCEICAO DE MONTE ALEGRE",
+            "estado": "SP",
+            "codMunIbge": "3535507"
+        },
+        {
+            "id": "82414",
+            "cidade": "CONCHAL",
+            "estado": "SP",
+            "codMunIbge": "3512209"
+        },
+        {
+            "id": "82422",
+            "cidade": "CONCHAS",
+            "estado": "SP",
+            "codMunIbge": "3512308"
+        },
+        {
+            "id": "82430",
+            "cidade": "CORDEIROPOLIS",
+            "estado": "SP",
+            "codMunIbge": "3512407"
+        },
+        {
+            "id": "82449",
+            "cidade": "COROADOS",
+            "estado": "SP",
+            "codMunIbge": "3512506"
+        },
+        {
+            "id": "82457",
+            "cidade": "CORONEL GOULART",
+            "estado": "SP",
+            "codMunIbge": "3501301"
+        },
+        {
+            "id": "82465",
+            "cidade": "CORONEL MACEDO",
+            "estado": "SP",
+            "codMunIbge": "3512605"
+        },
+        {
+            "id": "82473",
+            "cidade": "CORREDEIRA",
+            "estado": "SP",
+            "codMunIbge": "3538907"
+        },
+        {
+            "id": "82481",
+            "cidade": "CORREGO RICO",
+            "estado": "SP",
+            "codMunIbge": "3524303"
+        },
+        {
+            "id": "82490",
+            "cidade": "CORUMBATAI",
+            "estado": "SP",
+            "codMunIbge": "3512704"
+        },
+        {
+            "id": "82503",
+            "cidade": "COSMOPOLIS",
+            "estado": "SP",
+            "codMunIbge": "3512803"
+        },
+        {
+            "id": "82511",
+            "cidade": "COSMORAMA",
+            "estado": "SP",
+            "codMunIbge": "3512902"
+        },
+        {
+            "id": "82520",
+            "cidade": "COSTA MACHADO",
+            "estado": "SP",
+            "codMunIbge": "3530201"
+        },
+        {
+            "id": "82538",
+            "cidade": "COTIA",
+            "estado": "SP",
+            "codMunIbge": "3513009"
+        },
+        {
+            "id": "82546",
+            "cidade": "CRAVINHOS",
+            "estado": "SP",
+            "codMunIbge": "3513108"
+        },
+        {
+            "id": "82554",
+            "cidade": "CRISTAIS PAULISTA",
+            "estado": "SP",
+            "codMunIbge": "3513207"
+        },
+        {
+            "id": "82562",
+            "cidade": "CRUZ DAS POSSES",
+            "estado": "SP",
+            "codMunIbge": "3551702"
+        },
+        {
+            "id": "82570",
+            "cidade": "CRUZALIA",
+            "estado": "SP",
+            "codMunIbge": "3513306"
+        },
+        {
+            "id": "82589",
+            "cidade": "CRUZEIRO",
+            "estado": "SP",
+            "codMunIbge": "3549904"
+        },
+        {
+            "id": "82597",
+            "cidade": "CUBATAO",
+            "estado": "SP",
+            "codMunIbge": "3513504"
+        },
+        {
+            "id": "82600",
+            "cidade": "CUIABA PAULISTA",
+            "estado": "SP",
+            "codMunIbge": "3530201"
+        },
+        {
+            "id": "82619",
+            "cidade": "CUNHA",
+            "estado": "SP",
+            "codMunIbge": "3513603"
+        },
+        {
+            "id": "82627",
+            "cidade": "CURUPA",
+            "estado": "SP",
+            "codMunIbge": "3552700"
+        },
+        {
+            "id": "82635",
+            "cidade": "DALAS",
+            "estado": "SP",
+            "codMunIbge": "3535200"
+        },
+        {
+            "id": "82643",
+            "cidade": "DESCALVADO",
+            "estado": "SP",
+            "codMunIbge": "3513702"
+        },
+        {
+            "id": "82651",
+            "cidade": "DIADEMA",
+            "estado": "SP",
+            "codMunIbge": "3513801"
+        },
+        {
+            "id": "82660",
+            "cidade": "DIRCE REIS",
+            "estado": "SP",
+            "codMunIbge": "3513850"
+        },
+        {
+            "id": "82678",
+            "cidade": "DIRCEU",
+            "estado": "SP",
+            "codMunIbge": "3529005"
+        },
+        {
+            "id": "82686",
+            "cidade": "DIVINOLANDIA",
+            "estado": "SP",
+            "codMunIbge": "3513900"
+        },
+        {
+            "id": "82694",
+            "cidade": "DOBRADA",
+            "estado": "SP",
+            "codMunIbge": "3514007"
+        },
+        {
+            "id": "82708",
+            "cidade": "DOIS CORREGOS",
+            "estado": "SP",
+            "codMunIbge": "3514106"
+        },
+        {
+            "id": "82716",
+            "cidade": "DOLCINOPOLIS",
+            "estado": "SP",
+            "codMunIbge": "3514205"
+        },
+        {
+            "id": "82724",
+            "cidade": "DOMELIA",
+            "estado": "SP",
+            "codMunIbge": "3500709"
+        },
+        {
+            "id": "82732",
+            "cidade": "DOURADO",
+            "estado": "SP",
+            "codMunIbge": "3514304"
+        },
+        {
+            "id": "82740",
+            "cidade": "DRACENA",
+            "estado": "SP",
+            "codMunIbge": "3514403"
+        },
+        {
+            "id": "82759",
+            "cidade": "DUARTINA",
+            "estado": "SP",
+            "codMunIbge": "3514502"
+        },
+        {
+            "id": "82775",
+            "cidade": "DUMONT",
+            "estado": "SP",
+            "codMunIbge": "3514601"
+        },
+        {
+            "id": "82783",
+            "cidade": "DUPLO CEU",
+            "estado": "SP",
+            "codMunIbge": "3535002"
+        },
+        {
+            "id": "82791",
+            "cidade": "ECHAPORA",
+            "estado": "SP",
+            "codMunIbge": "3514700"
+        },
+        {
+            "id": "82813",
+            "cidade": "ELDORADO",
+            "estado": "SP",
+            "codMunIbge": "3514809"
+        },
+        {
+            "id": "82821",
+            "cidade": "ELEUTERIO",
+            "estado": "SP",
+            "codMunIbge": "3522604"
+        },
+        {
+            "id": "82830",
+            "cidade": "ELIAS FAUSTO",
+            "estado": "SP",
+            "codMunIbge": "3514908"
+        },
+        {
+            "id": "82848",
+            "cidade": "ELISIARIO",
+            "estado": "SP",
+            "codMunIbge": "3514924"
+        },
+        {
+            "id": "82856",
+            "cidade": "EMBAUBA",
+            "estado": "SP",
+            "codMunIbge": "3514957"
+        },
+        {
+            "id": "82864",
+            "cidade": "EMBU",
+            "estado": "SP",
+            "codMunIbge": "3515004"
+        },
+        {
+            "id": "82872",
+            "cidade": "EMBU GUACU",
+            "estado": "SP",
+            "codMunIbge": "3515103"
+        },
+        {
+            "id": "82880",
+            "cidade": "EMILIANOPOLIS",
+            "estado": "SP",
+            "codMunIbge": "3515129"
+        },
+        {
+            "id": "82899",
+            "cidade": "ENEIDA",
+            "estado": "SP",
+            "codMunIbge": "3541406"
+        },
+        {
+            "id": "82902",
+            "cidade": "ENGENHEIRO BALDUINO",
+            "estado": "SP",
+            "codMunIbge": "3531407"
+        },
+        {
+            "id": "82910",
+            "cidade": "ENGENHEIRO COELHO",
+            "estado": "SP",
+            "codMunIbge": "3515152"
+        },
+        {
+            "id": "82929",
+            "cidade": "ENGENHEIRO SCHMIDT",
+            "estado": "SP",
+            "codMunIbge": "3549805"
+        },
+        {
+            "id": "82945",
+            "cidade": "ESMERALDA",
+            "estado": "SP",
+            "codMunIbge": "3544509"
+        },
+        {
+            "id": "82953",
+            "cidade": "ESPERANCA D'OESTE",
+            "estado": "SP",
+            "codMunIbge": "NULL"
+        },
+        {
+            "id": "82961",
+            "cidade": "ESPIGAO",
+            "estado": "SP",
+            "codMunIbge": "3542404"
+        },
+        {
+            "id": "82970",
+            "cidade": "ESPIRITO SANTO DO PINHAL",
+            "estado": "SP",
+            "codMunIbge": "3515186"
+        },
+        {
+            "id": "82988",
+            "cidade": "ESPIRITO SANTO DO TURVO",
+            "estado": "SP",
+            "codMunIbge": "3515194"
+        },
+        {
+            "id": "82996",
+            "cidade": "ESTIVA GERBI",
+            "estado": "SP",
+            "codMunIbge": "3557303"
+        },
+        {
+            "id": "83011",
+            "cidade": "ESTRELA D'OESTE",
+            "estado": "SP",
+            "codMunIbge": "3515202"
+        },
+        {
+            "id": "83020",
+            "cidade": "ESTRELA DO NORTE",
+            "estado": "SP",
+            "codMunIbge": "3515301"
+        },
+        {
+            "id": "83038",
+            "cidade": "EUCLIDES DA CUNHA PAULISTA",
+            "estado": "SP",
+            "codMunIbge": "3515350"
+        },
+        {
+            "id": "83046",
+            "cidade": "EUGENIO DE MELO",
+            "estado": "SP",
+            "codMunIbge": "3549904"
+        },
+        {
+            "id": "83054",
+            "cidade": "FARTURA",
+            "estado": "SP",
+            "codMunIbge": "3515400"
+        },
+        {
+            "id": "83062",
+            "cidade": "FATIMA",
+            "estado": "SP",
+            "codMunIbge": "3517307"
+        },
+        {
+            "id": "83070",
+            "cidade": "FATIMA PAULISTA",
+            "estado": "SP",
+            "codMunIbge": "3555307"
+        },
+        {
+            "id": "83089",
+            "cidade": "FERNANDO PRESTES",
+            "estado": "SP",
+            "codMunIbge": "3515608"
+        },
+        {
+            "id": "83097",
+            "cidade": "FERNANDOPOLIS",
+            "estado": "SP",
+            "codMunIbge": "3515509"
+        },
+        {
+            "id": "83100",
+            "cidade": "FERNAO",
+            "estado": "SP",
+            "codMunIbge": "3515657"
+        },
+        {
+            "id": "83119",
+            "cidade": "FERRAZ DE VASCONCELOS",
+            "estado": "SP",
+            "codMunIbge": "3515707"
+        },
+        {
+            "id": "83127",
+            "cidade": "FLORA RICA",
+            "estado": "SP",
+            "codMunIbge": "3515806"
+        },
+        {
+            "id": "83135",
+            "cidade": "FLOREAL",
+            "estado": "SP",
+            "codMunIbge": "3515905"
+        },
+        {
+            "id": "83143",
+            "cidade": "FLORESTA DO SUL",
+            "estado": "SP",
+            "codMunIbge": "3541406"
+        },
+        {
+            "id": "83151",
+            "cidade": "FLORIDA PAULISTA",
+            "estado": "SP",
+            "codMunIbge": "3516002"
+        },
+        {
+            "id": "83160",
+            "cidade": "FLORINEA",
+            "estado": "SP",
+            "codMunIbge": "3529005"
+        },
+        {
+            "id": "83178",
+            "cidade": "FRANCA",
+            "estado": "SP",
+            "codMunIbge": "3516200"
+        },
+        {
+            "id": "83186",
+            "cidade": "FRANCISCO MORATO",
+            "estado": "SP",
+            "codMunIbge": "3516309"
+        },
+        {
+            "id": "83194",
+            "cidade": "FRANCO DA ROCHA",
+            "estado": "SP",
+            "codMunIbge": "3516408"
+        },
+        {
+            "id": "83208",
+            "cidade": "FRUTAL DO CAMPO",
+            "estado": "SP",
+            "codMunIbge": "3510005"
+        },
+        {
+            "id": "83216",
+            "cidade": "GABRIEL MONTEIRO",
+            "estado": "SP",
+            "codMunIbge": "3516507"
+        },
+        {
+            "id": "83224",
+            "cidade": "GALIA",
+            "estado": "SP",
+            "codMunIbge": "3516606"
+        },
+        {
+            "id": "83232",
+            "cidade": "GARCA",
+            "estado": "SP",
+            "codMunIbge": "3516705"
+        },
+        {
+            "id": "83240",
+            "cidade": "GARDENIA",
+            "estado": "SP",
+            "codMunIbge": "3542206"
+        },
+        {
+            "id": "83259",
+            "cidade": "GASTAO VIDIGAL",
+            "estado": "SP",
+            "codMunIbge": "3516804"
+        },
+        {
+            "id": "83267",
+            "cidade": "GAVIAO PEIXOTO",
+            "estado": "SP",
+            "codMunIbge": "3516853"
+        },
+        {
+            "id": "83275",
+            "cidade": "GENERAL SALGADO",
+            "estado": "SP",
+            "codMunIbge": "3516903"
+        },
+        {
+            "id": "83283",
+            "cidade": "GETULINA",
+            "estado": "SP",
+            "codMunIbge": "3517000"
+        },
+        {
+            "id": "83291",
+            "cidade": "GLICERIO",
+            "estado": "SP",
+            "codMunIbge": "3517109"
+        },
+        {
+            "id": "83305",
+            "cidade": "GRAMADINHO",
+            "estado": "SP",
+            "codMunIbge": "3522307"
+        },
+        {
+            "id": "83313",
+            "cidade": "GUACHOS",
+            "estado": "SP",
+            "codMunIbge": "3529203"
+        },
+        {
+            "id": "83321",
+            "cidade": "GUAIANAS",
+            "estado": "SP",
+            "codMunIbge": "3536703"
+        },
+        {
+            "id": "83348",
+            "cidade": "GUAICARA",
+            "estado": "SP",
+            "codMunIbge": "3517208"
+        },
+        {
+            "id": "83356",
+            "cidade": "GUAIMBE",
+            "estado": "SP",
+            "codMunIbge": "3517307"
+        },
+        {
+            "id": "83364",
+            "cidade": "GUAIRA",
+            "estado": "SP",
+            "codMunIbge": "3517406"
+        },
+        {
+            "id": "83372",
+            "cidade": "GUAMIUM",
+            "estado": "SP",
+            "codMunIbge": "3538709"
+        },
+        {
+            "id": "83380",
+            "cidade": "GUAPIACU",
+            "estado": "SP",
+            "codMunIbge": "3517505"
+        },
+        {
+            "id": "83399",
+            "cidade": "GUAPIARA",
+            "estado": "SP",
+            "codMunIbge": "3517604"
+        },
+        {
+            "id": "83402",
+            "cidade": "GUAPIRANGA",
+            "estado": "SP",
+            "codMunIbge": "3527108"
+        },
+        {
+            "id": "83410",
+            "cidade": "GUARA",
+            "estado": "SP",
+            "codMunIbge": "3517703"
+        },
+        {
+            "id": "83429",
+            "cidade": "GUARACAI",
+            "estado": "SP",
+            "codMunIbge": "3517802"
+        },
+        {
+            "id": "83437",
+            "cidade": "GUARACI",
+            "estado": "SP",
+            "codMunIbge": "3517901"
+        },
+        {
+            "id": "83445",
+            "cidade": "GUARACIABA D'OESTE",
+            "estado": "SP",
+            "codMunIbge": "NULL"
+        },
+        {
+            "id": "83453",
+            "cidade": "GUARANI D'OESTE",
+            "estado": "SP",
+            "codMunIbge": "3518008"
+        },
+        {
+            "id": "83461",
+            "cidade": "GUARANTA",
+            "estado": "SP",
+            "codMunIbge": "3518107"
+        },
+        {
+            "id": "83470",
+            "cidade": "GUARAPIRANGA",
+            "estado": "SP",
+            "codMunIbge": "3542909"
+        },
+        {
+            "id": "83488",
+            "cidade": "GUARAPUA",
+            "estado": "SP",
+            "codMunIbge": "3514106"
+        },
+        {
+            "id": "83496",
+            "cidade": "GUARARAPES",
+            "estado": "SP",
+            "codMunIbge": "3518206"
+        },
+        {
+            "id": "83500",
+            "cidade": "GUARAREMA",
+            "estado": "SP",
+            "codMunIbge": "3518305"
+        },
+        {
+            "id": "83518",
+            "cidade": "GUARATINGUETA",
+            "estado": "SP",
+            "codMunIbge": "3518404"
+        },
+        {
+            "id": "83526",
+            "cidade": "GUAREI",
+            "estado": "SP",
+            "codMunIbge": "3518503"
+        },
+        {
+            "id": "83534",
+            "cidade": "GUARIBA",
+            "estado": "SP",
+            "codMunIbge": "3518602"
+        },
+        {
+            "id": "83542",
+            "cidade": "SAO LUIZ DO GUARICANGA",
+            "estado": "SP",
+            "codMunIbge": "NULL"
+        },
+        {
+            "id": "83550",
+            "cidade": "GUARIROBA",
+            "estado": "SP",
+            "codMunIbge": "3553708"
+        },
+        {
+            "id": "83569",
+            "cidade": "GUARIZINHO",
+            "estado": "SP",
+            "codMunIbge": "3522406"
+        },
+        {
+            "id": "83577",
+            "cidade": "GUARUJA",
+            "estado": "SP",
+            "codMunIbge": "3518701"
+        },
+        {
+            "id": "83585",
+            "cidade": "GUARULHOS",
+            "estado": "SP",
+            "codMunIbge": "3518800"
+        },
+        {
+            "id": "83593",
+            "cidade": "GUZOLANDIA",
+            "estado": "SP",
+            "codMunIbge": "3518909"
+        },
+        {
+            "id": "83607",
+            "cidade": "HERCULANDIA",
+            "estado": "SP",
+            "codMunIbge": "3519006"
+        },
+        {
+            "id": "83615",
+            "cidade": "HOLAMBRA",
+            "estado": "SP",
+            "codMunIbge": "3519055"
+        },
+        {
+            "id": "83631",
+            "cidade": "HORTOLANDIA",
+            "estado": "SP",
+            "codMunIbge": "3519071"
+        },
+        {
+            "id": "83640",
+            "cidade": "IACANGA",
+            "estado": "SP",
+            "codMunIbge": "3519105"
+        },
+        {
+            "id": "83658",
+            "cidade": "IACRI",
+            "estado": "SP",
+            "codMunIbge": "3519204"
+        },
+        {
+            "id": "83666",
+            "cidade": "IARAS",
+            "estado": "SP",
+            "codMunIbge": "3519253"
+        },
+        {
+            "id": "83674",
+            "cidade": "IBATE",
+            "estado": "SP",
+            "codMunIbge": "3519303"
+        },
+        {
+            "id": "83682",
+            "cidade": "IBIPORANGA",
+            "estado": "SP",
+            "codMunIbge": "3553401"
+        },
+        {
+            "id": "83690",
+            "cidade": "IBIRA",
+            "estado": "SP",
+            "codMunIbge": "3519402"
+        },
+        {
+            "id": "83704",
+            "cidade": "IBIRAREMA",
+            "estado": "SP",
+            "codMunIbge": "3519501"
+        },
+        {
+            "id": "83712",
+            "cidade": "IBITINGA",
+            "estado": "SP",
+            "codMunIbge": "3519600"
+        },
+        {
+            "id": "83720",
+            "cidade": "IBITIRUNA",
+            "estado": "SP",
+            "codMunIbge": "3538709"
+        },
+        {
+            "id": "83739",
+            "cidade": "IBITIUVA",
+            "estado": "SP",
+            "codMunIbge": "3539509"
+        },
+        {
+            "id": "83747",
+            "cidade": "IBITU",
+            "estado": "SP",
+            "codMunIbge": "3505500"
+        },
+        {
+            "id": "83755",
+            "cidade": "IBIUNA",
+            "estado": "SP",
+            "codMunIbge": "3519709"
+        },
+        {
+            "id": "83763",
+            "cidade": "ICEM",
+            "estado": "SP",
+            "codMunIbge": "3519808"
+        },
+        {
+            "id": "83771",
+            "cidade": "IDA IOLANDA",
+            "estado": "SP",
+            "codMunIbge": "3532603"
+        },
+        {
+            "id": "83780",
+            "cidade": "IEPE",
+            "estado": "SP",
+            "codMunIbge": "3519907"
+        },
+        {
+            "id": "83798",
+            "cidade": "IGACABA",
+            "estado": "SP",
+            "codMunIbge": "3537008"
+        },
+        {
+            "id": "83801",
+            "cidade": "IGARACU DO TIETE",
+            "estado": "SP",
+            "codMunIbge": "3520004"
+        },
+        {
+            "id": "83810",
+            "cidade": "IGARAI",
+            "estado": "SP",
+            "codMunIbge": "3530508"
+        },
+        {
+            "id": "83828",
+            "cidade": "IGARAPAVA",
+            "estado": "SP",
+            "codMunIbge": "3520103"
+        },
+        {
+            "id": "83836",
+            "cidade": "IGARATA",
+            "estado": "SP",
+            "codMunIbge": "3520202"
+        },
+        {
+            "id": "83844",
+            "cidade": "IGUAPE",
+            "estado": "SP",
+            "codMunIbge": "3520301"
+        },
+        {
+            "id": "83860",
+            "cidade": "ILHA SOLTEIRA",
+            "estado": "SP",
+            "codMunIbge": "3520442"
+        },
+        {
+            "id": "83879",
+            "cidade": "ILHABELA",
+            "estado": "SP",
+            "codMunIbge": "3520400"
+        },
+        {
+            "id": "83887",
+            "cidade": "INDAIA DO AGUAPEI",
+            "estado": "SP",
+            "codMunIbge": "3516002"
+        },
+        {
+            "id": "83895",
+            "cidade": "INDAIATUBA",
+            "estado": "SP",
+            "codMunIbge": "3520509"
+        },
+        {
+            "id": "83909",
+            "cidade": "INDIANA",
+            "estado": "SP",
+            "codMunIbge": "3520608"
+        },
+        {
+            "id": "83917",
+            "cidade": "INDIAPORA",
+            "estado": "SP",
+            "codMunIbge": "3520707"
+        },
+        {
+            "id": "83925",
+            "cidade": "INGAS",
+            "estado": "SP",
+            "codMunIbge": "3533007"
+        },
+        {
+            "id": "83933",
+            "cidade": "INUBIA PAULISTA",
+            "estado": "SP",
+            "codMunIbge": "3520806"
+        },
+        {
+            "id": "83941",
+            "cidade": "IPAUSSU",
+            "estado": "SP",
+            "codMunIbge": "3520905"
+        },
+        {
+            "id": "83950",
+            "cidade": "IPERO",
+            "estado": "SP",
+            "codMunIbge": "3521002"
+        },
+        {
+            "id": "83968",
+            "cidade": "IPEUNA",
+            "estado": "SP",
+            "codMunIbge": "3521101"
+        },
+        {
+            "id": "83976",
+            "cidade": "IPIGUA",
+            "estado": "SP",
+            "codMunIbge": "3521150"
+        },
+        {
+            "id": "83984",
+            "cidade": "IPORANGA",
+            "estado": "SP",
+            "codMunIbge": "3521200"
+        },
+        {
+            "id": "83992",
+            "cidade": "IPUA",
+            "estado": "SP",
+            "codMunIbge": "3521309"
+        },
+        {
+            "id": "84000",
+            "cidade": "IRACEMAPOLIS",
+            "estado": "SP",
+            "codMunIbge": "3521408"
+        },
+        {
+            "id": "84018",
+            "cidade": "IRAPE",
+            "estado": "SP",
+            "codMunIbge": "3557204"
+        },
+        {
+            "id": "84026",
+            "cidade": "IRAPUA",
+            "estado": "SP",
+            "codMunIbge": "3521507"
+        },
+        {
+            "id": "84034",
+            "cidade": "IRAPURU",
+            "estado": "SP",
+            "codMunIbge": "3521606"
+        },
+        {
+            "id": "84042",
+            "cidade": "ITABERA",
+            "estado": "SP",
+            "codMunIbge": "3521705"
+        },
+        {
+            "id": "84050",
+            "cidade": "ITAI",
+            "estado": "SP",
+            "codMunIbge": "3521804"
+        },
+        {
+            "id": "84085",
+            "cidade": "ITAIUBA",
+            "estado": "SP",
+            "codMunIbge": "3531407"
+        },
+        {
+            "id": "84093",
+            "cidade": "ITAJOBI",
+            "estado": "SP",
+            "codMunIbge": "3521903"
+        },
+        {
+            "id": "84107",
+            "cidade": "ITAJU",
+            "estado": "SP",
+            "codMunIbge": "3522000"
+        },
+        {
+            "id": "84115",
+            "cidade": "ITANHAEM",
+            "estado": "SP",
+            "codMunIbge": "3522109"
+        },
+        {
+            "id": "84123",
+            "cidade": "ITAOCA",
+            "estado": "SP",
+            "codMunIbge": "3522158"
+        },
+        {
+            "id": "84131",
+            "cidade": "ITAPECERICA DA SERRA",
+            "estado": "SP",
+            "codMunIbge": "3522208"
+        },
+        {
+            "id": "84140",
+            "cidade": "ITAPETININGA",
+            "estado": "SP",
+            "codMunIbge": "3522307"
+        },
+        {
+            "id": "84158",
+            "cidade": "ITAPEUNA",
+            "estado": "SP",
+            "codMunIbge": "3514809"
+        },
+        {
+            "id": "84166",
+            "cidade": "ITAPEVA",
+            "estado": "SP",
+            "codMunIbge": "3522406"
+        },
+        {
+            "id": "84174",
+            "cidade": "ITAPEVI",
+            "estado": "SP",
+            "codMunIbge": "3522505"
+        },
+        {
+            "id": "84182",
+            "cidade": "ITAPIRA",
+            "estado": "SP",
+            "codMunIbge": "3522604"
+        },
+        {
+            "id": "84190",
+            "cidade": "ITAPIRAPUA PAULISTA",
+            "estado": "SP",
+            "codMunIbge": "3522653"
+        },
+        {
+            "id": "84204",
+            "cidade": "ITAPOLIS",
+            "estado": "SP",
+            "codMunIbge": "3522703"
+        },
+        {
+            "id": "84212",
+            "cidade": "ITAPORANGA",
+            "estado": "SP",
+            "codMunIbge": "3522802"
+        },
+        {
+            "id": "84220",
+            "cidade": "ITAPUI",
+            "estado": "SP",
+            "codMunIbge": "3522901"
+        },
+        {
+            "id": "84239",
+            "cidade": "ITAPURA",
+            "estado": "SP",
+            "codMunIbge": "3523008"
+        },
+        {
+            "id": "84247",
+            "cidade": "ITAQUAQUECETUBA",
+            "estado": "SP",
+            "codMunIbge": "3523107"
+        },
+        {
+            "id": "84263",
+            "cidade": "ITAQUERI DA SERRA",
+            "estado": "SP",
+            "codMunIbge": "3523602"
+        },
+        {
+            "id": "84271",
+            "cidade": "ITARARE",
+            "estado": "SP",
+            "codMunIbge": "3523206"
+        },
+        {
+            "id": "84280",
+            "cidade": "ITARIRI",
+            "estado": "SP",
+            "codMunIbge": "3523305"
+        },
+        {
+            "id": "84298",
+            "cidade": "ITATIBA",
+            "estado": "SP",
+            "codMunIbge": "3523404"
+        },
+        {
+            "id": "84301",
+            "cidade": "ITATINGA",
+            "estado": "SP",
+            "codMunIbge": "3523503"
+        },
+        {
+            "id": "84310",
+            "cidade": "ITIRAPINA",
+            "estado": "SP",
+            "codMunIbge": "3523602"
+        },
+        {
+            "id": "84328",
+            "cidade": "ITIRAPUA",
+            "estado": "SP",
+            "codMunIbge": "3523701"
+        },
+        {
+            "id": "84336",
+            "cidade": "ITOBI",
+            "estado": "SP",
+            "codMunIbge": "3523800"
+        },
+        {
+            "id": "84344",
+            "cidade": "ITORORO DO PARANAPANEMA",
+            "estado": "SP",
+            "codMunIbge": "3539202"
+        },
+        {
+            "id": "84352",
+            "cidade": "ITU",
+            "estado": "SP",
+            "codMunIbge": "3523909"
+        },
+        {
+            "id": "84360",
+            "cidade": "ITUPEVA",
+            "estado": "SP",
+            "codMunIbge": "3524006"
+        },
+        {
+            "id": "84379",
+            "cidade": "ITUVERAVA",
+            "estado": "SP",
+            "codMunIbge": "3524105"
+        },
+        {
+            "id": "84387",
+            "cidade": "IUBATINGA",
+            "estado": "SP",
+            "codMunIbge": "3508900"
+        },
+        {
+            "id": "84395",
+            "cidade": "JABORANDI",
+            "estado": "SP",
+            "codMunIbge": "3524204"
+        },
+        {
+            "id": "84409",
+            "cidade": "JABOTICABAL",
+            "estado": "SP",
+            "codMunIbge": "3524303"
+        },
+        {
+            "id": "84417",
+            "cidade": "JACAREI",
+            "estado": "SP",
+            "codMunIbge": "3524402"
+        },
+        {
+            "id": "84425",
+            "cidade": "JACI",
+            "estado": "SP",
+            "codMunIbge": "3524501"
+        },
+        {
+            "id": "84433",
+            "cidade": "JACIPORA",
+            "estado": "SP",
+            "codMunIbge": "3514403"
+        },
+        {
+            "id": "84441",
+            "cidade": "JACUBA",
+            "estado": "SP",
+            "codMunIbge": "3503406"
+        },
+        {
+            "id": "84450",
+            "cidade": "JACUPIRANGA",
+            "estado": "SP",
+            "codMunIbge": "3524600"
+        },
+        {
+            "id": "84476",
+            "cidade": "JAFA",
+            "estado": "SP",
+            "codMunIbge": "3516705"
+        },
+        {
+            "id": "84484",
+            "cidade": "JAGUARIUNA",
+            "estado": "SP",
+            "codMunIbge": "3524709"
+        },
+        {
+            "id": "84492",
+            "cidade": "JALES",
+            "estado": "SP",
+            "codMunIbge": "3524808"
+        },
+        {
+            "id": "84506",
+            "cidade": "JAMAICA",
+            "estado": "SP",
+            "codMunIbge": "3514403"
+        },
+        {
+            "id": "84514",
+            "cidade": "JAMBEIRO",
+            "estado": "SP",
+            "codMunIbge": "3524907"
+        },
+        {
+            "id": "84522",
+            "cidade": "JANDIRA",
+            "estado": "SP",
+            "codMunIbge": "3525003"
+        },
+        {
+            "id": "84549",
+            "cidade": "JARDIM BELVAL",
+            "estado": "SP",
+            "codMunIbge": "3505708"
+        },
+        {
+            "id": "84557",
+            "cidade": "JARDIM PRESIDENTE DUTRA",
+            "estado": "SP",
+            "codMunIbge": "3518800"
+        },
+        {
+            "id": "84565",
+            "cidade": "JARDIM SILVEIRA",
+            "estado": "SP",
+            "codMunIbge": "3505708"
+        },
+        {
+            "id": "84573",
+            "cidade": "JARDINOPOLIS",
+            "estado": "SP",
+            "codMunIbge": "3525102"
+        },
+        {
+            "id": "84581",
+            "cidade": "JARINU",
+            "estado": "SP",
+            "codMunIbge": "3525201"
+        },
+        {
+            "id": "84590",
+            "cidade": "JATOBA",
+            "estado": "SP",
+            "codMunIbge": "3501103"
+        },
+        {
+            "id": "84603",
+            "cidade": "JAU",
+            "estado": "SP",
+            "codMunIbge": "3525300"
+        },
+        {
+            "id": "84611",
+            "cidade": "JERIQUARA",
+            "estado": "SP",
+            "codMunIbge": "3525409"
+        },
+        {
+            "id": "84620",
+            "cidade": "JOANOPOLIS",
+            "estado": "SP",
+            "codMunIbge": "3525508"
+        },
+        {
+            "id": "84638",
+            "cidade": "JOAO RAMALHO",
+            "estado": "SP",
+            "codMunIbge": "3525607"
+        },
+        {
+            "id": "84646",
+            "cidade": "JOAQUIM EGIDIO",
+            "estado": "SP",
+            "codMunIbge": "3509502"
+        },
+        {
+            "id": "84654",
+            "cidade": "JORDANESIA",
+            "estado": "SP",
+            "codMunIbge": "3509205"
+        },
+        {
+            "id": "84662",
+            "cidade": "JOSE BONIFACIO",
+            "estado": "SP",
+            "codMunIbge": "3525706"
+        },
+        {
+            "id": "84670",
+            "cidade": "JULIANIA",
+            "estado": "SP",
+            "codMunIbge": "3519006"
+        },
+        {
+            "id": "84689",
+            "cidade": "JULIO MESQUITA",
+            "estado": "SP",
+            "codMunIbge": "3525805"
+        },
+        {
+            "id": "84697",
+            "cidade": "JUMIRIM",
+            "estado": "SP",
+            "codMunIbge": "3525854"
+        },
+        {
+            "id": "84700",
+            "cidade": "JUNDIAI",
+            "estado": "SP",
+            "codMunIbge": "3525904"
+        },
+        {
+            "id": "84719",
+            "cidade": "JUNDIAPEBA",
+            "estado": "SP",
+            "codMunIbge": "3530607"
+        },
+        {
+            "id": "84727",
+            "cidade": "JUNQUEIRA",
+            "estado": "SP",
+            "codMunIbge": "3531407"
+        },
+        {
+            "id": "84735",
+            "cidade": "JUNQUEIROPOLIS",
+            "estado": "SP",
+            "codMunIbge": "3526001"
+        },
+        {
+            "id": "84743",
+            "cidade": "JUQUIA",
+            "estado": "SP",
+            "codMunIbge": "3526100"
+        },
+        {
+            "id": "84751",
+            "cidade": "JUQUIRATIBA",
+            "estado": "SP",
+            "codMunIbge": "3512308"
+        },
+        {
+            "id": "84760",
+            "cidade": "JUQUITIBA",
+            "estado": "SP",
+            "codMunIbge": "3526209"
+        },
+        {
+            "id": "84778",
+            "cidade": "JURITIS",
+            "estado": "SP",
+            "codMunIbge": "3517109"
+        },
+        {
+            "id": "84786",
+            "cidade": "JURUCE",
+            "estado": "SP",
+            "codMunIbge": "3525102"
+        },
+        {
+            "id": "84794",
+            "cidade": "JURUPEBA",
+            "estado": "SP",
+            "codMunIbge": "3535002"
+        },
+        {
+            "id": "84808",
+            "cidade": "JURUPEMA",
+            "estado": "SP",
+            "codMunIbge": "3553708"
+        },
+        {
+            "id": "84816",
+            "cidade": "LACIO",
+            "estado": "SP",
+            "codMunIbge": "3529005"
+        },
+        {
+            "id": "84824",
+            "cidade": "LAGOA AZUL",
+            "estado": "SP",
+            "codMunIbge": "3534609"
+        },
+        {
+            "id": "84832",
+            "cidade": "LAGOA BRANCA",
+            "estado": "SP",
+            "codMunIbge": "3510807"
+        },
+        {
+            "id": "84840",
+            "cidade": "LAGOINHA",
+            "estado": "SP",
+            "codMunIbge": "3526308"
+        },
+        {
+            "id": "84859",
+            "cidade": "LARANJAL PAULISTA",
+            "estado": "SP",
+            "codMunIbge": "3526407"
+        },
+        {
+            "id": "84867",
+            "cidade": "LARAS",
+            "estado": "SP",
+            "codMunIbge": "3526407"
+        },
+        {
+            "id": "84875",
+            "cidade": "LAURO PENTEADO",
+            "estado": "SP",
+            "codMunIbge": "3511904"
+        },
+        {
+            "id": "84883",
+            "cidade": "LAVINIA",
+            "estado": "SP",
+            "codMunIbge": "3526506"
+        },
+        {
+            "id": "84891",
+            "cidade": "LAVRINHAS",
+            "estado": "SP",
+            "codMunIbge": "3526605"
+        },
+        {
+            "id": "84905",
+            "cidade": "LEME",
+            "estado": "SP",
+            "codMunIbge": "3526704"
+        },
+        {
+            "id": "84913",
+            "cidade": "LENCOIS PAULISTA",
+            "estado": "SP",
+            "codMunIbge": "3526803"
+        },
+        {
+            "id": "84921",
+            "cidade": "LIMEIRA",
+            "estado": "SP",
+            "codMunIbge": "3526902"
+        },
+        {
+            "id": "84930",
+            "cidade": "LINDOIA",
+            "estado": "SP",
+            "codMunIbge": "3527009"
+        },
+        {
+            "id": "84948",
+            "cidade": "LINS",
+            "estado": "SP",
+            "codMunIbge": "3527108"
+        },
+        {
+            "id": "84956",
+            "cidade": "LOBO",
+            "estado": "SP",
+            "codMunIbge": "3523503"
+        },
+        {
+            "id": "84964",
+            "cidade": "LORENA",
+            "estado": "SP",
+            "codMunIbge": "3527207"
+        },
+        {
+            "id": "84972",
+            "cidade": "LOURDES",
+            "estado": "SP",
+            "codMunIbge": "3527256"
+        },
+        {
+            "id": "84980",
+            "cidade": "LOUVEIRA",
+            "estado": "SP",
+            "codMunIbge": "3527306"
+        },
+        {
+            "id": "84999",
+            "cidade": "LUCELIA",
+            "estado": "SP",
+            "codMunIbge": "3527405"
+        },
+        {
+            "id": "85006",
+            "cidade": "LUCIANOPOLIS",
+            "estado": "SP",
+            "codMunIbge": "3527504"
+        },
+        {
+            "id": "85014",
+            "cidade": "LUIS ANTONIO",
+            "estado": "SP",
+            "codMunIbge": "3527603"
+        },
+        {
+            "id": "85022",
+            "cidade": "LUIZIANIA",
+            "estado": "SP",
+            "codMunIbge": "3527702"
+        },
+        {
+            "id": "85030",
+            "cidade": "LUPERCIO",
+            "estado": "SP",
+            "codMunIbge": "3527801"
+        },
+        {
+            "id": "85049",
+            "cidade": "LUSITANIA",
+            "estado": "SP",
+            "codMunIbge": "3524303"
+        },
+        {
+            "id": "85057",
+            "cidade": "LUTECIA",
+            "estado": "SP",
+            "codMunIbge": "3527900"
+        },
+        {
+            "id": "85065",
+            "cidade": "MACATUBA",
+            "estado": "SP",
+            "codMunIbge": "3528007"
+        },
+        {
+            "id": "85073",
+            "cidade": "MACAUBAL",
+            "estado": "SP",
+            "codMunIbge": "3528106"
+        },
+        {
+            "id": "85081",
+            "cidade": "MACEDONIA",
+            "estado": "SP",
+            "codMunIbge": "3528205"
+        },
+        {
+            "id": "85090",
+            "cidade": "MACUCOS",
+            "estado": "SP",
+            "codMunIbge": "3517000"
+        },
+        {
+            "id": "85103",
+            "cidade": "MAGDA",
+            "estado": "SP",
+            "codMunIbge": "3528304"
+        },
+        {
+            "id": "85111",
+            "cidade": "MAILASQUI",
+            "estado": "SP",
+            "codMunIbge": "3550605"
+        },
+        {
+            "id": "85120",
+            "cidade": "MAIRINQUE",
+            "estado": "SP",
+            "codMunIbge": "3528403"
+        },
+        {
+            "id": "85138",
+            "cidade": "MAIRIPORA",
+            "estado": "SP",
+            "codMunIbge": "3528502"
+        },
+        {
+            "id": "85154",
+            "cidade": "MANDURI",
+            "estado": "SP",
+            "codMunIbge": "3528601"
+        },
+        {
+            "id": "85162",
+            "cidade": "MANGARATU",
+            "estado": "SP",
+            "codMunIbge": "3533007"
+        },
+        {
+            "id": "85170",
+            "cidade": "MARABA PAULISTA",
+            "estado": "SP",
+            "codMunIbge": "3528700"
+        },
+        {
+            "id": "85189",
+            "cidade": "MARACAI",
+            "estado": "SP",
+            "codMunIbge": "3528809"
+        },
+        {
+            "id": "85197",
+            "cidade": "MARAPOAMA",
+            "estado": "SP",
+            "codMunIbge": "3528858"
+        },
+        {
+            "id": "85200",
+            "cidade": "MARCONDESIA",
+            "estado": "SP",
+            "codMunIbge": "3531506"
+        },
+        {
+            "id": "85219",
+            "cidade": "MARESIAS",
+            "estado": "SP",
+            "codMunIbge": "3550704"
+        },
+        {
+            "id": "85227",
+            "cidade": "MARIAPOLIS",
+            "estado": "SP",
+            "codMunIbge": "3528908"
+        },
+        {
+            "id": "85235",
+            "cidade": "MARILIA",
+            "estado": "SP",
+            "codMunIbge": "3529005"
+        },
+        {
+            "id": "85243",
+            "cidade": "MARINOPOLIS",
+            "estado": "SP",
+            "codMunIbge": "3529104"
+        },
+        {
+            "id": "85251",
+            "cidade": "MARISTELA",
+            "estado": "SP",
+            "codMunIbge": "3526407"
+        },
+        {
+            "id": "85260",
+            "cidade": "MARTIM FRANCISCO",
+            "estado": "SP",
+            "codMunIbge": "3530805"
+        },
+        {
+            "id": "85278",
+            "cidade": "MARTINHO PRADO JUNIOR",
+            "estado": "SP",
+            "codMunIbge": "3530706"
+        },
+        {
+            "id": "85286",
+            "cidade": "MARTINOPOLIS",
+            "estado": "SP",
+            "codMunIbge": "3529203"
+        },
+        {
+            "id": "85294",
+            "cidade": "MATAO",
+            "estado": "SP",
+            "codMunIbge": "3529302"
+        },
+        {
+            "id": "85308",
+            "cidade": "MAUA",
+            "estado": "SP",
+            "codMunIbge": "3529401"
+        },
+        {
+            "id": "85316",
+            "cidade": "MENDONCA",
+            "estado": "SP",
+            "codMunIbge": "3529500"
+        },
+        {
+            "id": "85324",
+            "cidade": "MERIDIANO",
+            "estado": "SP",
+            "codMunIbge": "3529609"
+        },
+        {
+            "id": "85332",
+            "cidade": "MESOPOLIS",
+            "estado": "SP",
+            "codMunIbge": "3529658"
+        },
+        {
+            "id": "85340",
+            "cidade": "MIGUELOPOLIS",
+            "estado": "SP",
+            "codMunIbge": "3529708"
+        },
+        {
+            "id": "85359",
+            "cidade": "MINEIROS DO TIETE",
+            "estado": "SP",
+            "codMunIbge": "3529807"
+        },
+        {
+            "id": "85367",
+            "cidade": "MIRA ESTRELA",
+            "estado": "SP",
+            "codMunIbge": "3530003"
+        },
+        {
+            "id": "85375",
+            "cidade": "MIRACATU",
+            "estado": "SP",
+            "codMunIbge": "3529906"
+        },
+        {
+            "id": "85383",
+            "cidade": "MIRALUZ",
+            "estado": "SP",
+            "codMunIbge": "3532504"
+        },
+        {
+            "id": "85391",
+            "cidade": "MIRANDOPOLIS",
+            "estado": "SP",
+            "codMunIbge": "3530102"
+        },
+        {
+            "id": "85405",
+            "cidade": "MIRANTE DO PARANAPANEMA",
+            "estado": "SP",
+            "codMunIbge": "3530201"
+        },
+        {
+            "id": "85413",
+            "cidade": "MIRASSOL",
+            "estado": "SP",
+            "codMunIbge": "3530300"
+        },
+        {
+            "id": "85421",
+            "cidade": "MIRASSOLANDIA",
+            "estado": "SP",
+            "codMunIbge": "3530409"
+        },
+        {
+            "id": "85430",
+            "cidade": "MOCOCA",
+            "estado": "SP",
+            "codMunIbge": "3530508"
+        },
+        {
+            "id": "85448",
+            "cidade": "MOGI DAS CRUZES",
+            "estado": "SP",
+            "codMunIbge": "3530607"
+        },
+        {
+            "id": "85456",
+            "cidade": "MOGI GUACU",
+            "estado": "SP",
+            "codMunIbge": "3530706"
+        },
+        {
+            "id": "85464",
+            "cidade": "MOGI MIRIM",
+            "estado": "SP",
+            "codMunIbge": "3530805"
+        },
+        {
+            "id": "85472",
+            "cidade": "MOMBUCA",
+            "estado": "SP",
+            "codMunIbge": "3530904"
+        },
+        {
+            "id": "85480",
+            "cidade": "MONCOES",
+            "estado": "SP",
+            "codMunIbge": "3531001"
+        },
+        {
+            "id": "85499",
+            "cidade": "MONGAGUA",
+            "estado": "SP",
+            "codMunIbge": "3531100"
+        },
+        {
+            "id": "85502",
+            "cidade": "MONTALVAO",
+            "estado": "SP",
+            "codMunIbge": "3541406"
+        },
+        {
+            "id": "85510",
+            "cidade": "MONTE ALEGRE DO SUL",
+            "estado": "SP",
+            "codMunIbge": "3531209"
+        },
+        {
+            "id": "85529",
+            "cidade": "MONTE ALTO",
+            "estado": "SP",
+            "codMunIbge": "3531308"
+        },
+        {
+            "id": "85537",
+            "cidade": "MONTE APRAZIVEL",
+            "estado": "SP",
+            "codMunIbge": "3531407"
+        },
+        {
+            "id": "85545",
+            "cidade": "MONTE AZUL PAULISTA",
+            "estado": "SP",
+            "codMunIbge": "3531506"
+        },
+        {
+            "id": "85553",
+            "cidade": "MONTE CASTELO",
+            "estado": "SP",
+            "codMunIbge": "3531605"
+        },
+        {
+            "id": "85561",
+            "cidade": "MONTE MOR",
+            "estado": "SP",
+            "codMunIbge": "3531803"
+        },
+        {
+            "id": "85570",
+            "cidade": "MONTE VERDE PAULISTA",
+            "estado": "SP",
+            "codMunIbge": "3509304"
+        },
+        {
+            "id": "85588",
+            "cidade": "MONTEIRO LOBATO",
+            "estado": "SP",
+            "codMunIbge": "3531704"
+        },
+        {
+            "id": "85596",
+            "cidade": "MOREIRA CESAR",
+            "estado": "SP",
+            "codMunIbge": "3538006"
+        },
+        {
+            "id": "85600",
+            "cidade": "MORRO AGUDO",
+            "estado": "SP",
+            "codMunIbge": "3531902"
+        },
+        {
+            "id": "85618",
+            "cidade": "MORRO DO ALTO",
+            "estado": "SP",
+            "codMunIbge": "3522307"
+        },
+        {
+            "id": "85626",
+            "cidade": "MORUNGABA",
+            "estado": "SP",
+            "codMunIbge": "3532009"
+        },
+        {
+            "id": "85634",
+            "cidade": "MOSTARDAS",
+            "estado": "SP",
+            "codMunIbge": "3531209"
+        },
+        {
+            "id": "85642",
+            "cidade": "MOTUCA",
+            "estado": "SP",
+            "codMunIbge": "3532058"
+        },
+        {
+            "id": "85650",
+            "cidade": "MOURAO",
+            "estado": "SP",
+            "codMunIbge": "3528908"
+        },
+        {
+            "id": "85669",
+            "cidade": "MURUTINGA DO SUL",
+            "estado": "SP",
+            "codMunIbge": "3532108"
+        },
+        {
+            "id": "85677",
+            "cidade": "NANTES",
+            "estado": "SP",
+            "codMunIbge": "3532157"
+        },
+        {
+            "id": "85685",
+            "cidade": "NARANDIBA",
+            "estado": "SP",
+            "codMunIbge": "3532207"
+        },
+        {
+            "id": "85693",
+            "cidade": "NATIVIDADE DA SERRA",
+            "estado": "SP",
+            "codMunIbge": "3532306"
+        },
+        {
+            "id": "85707",
+            "cidade": "NAZARE PAULISTA",
+            "estado": "SP",
+            "codMunIbge": "3532405"
+        },
+        {
+            "id": "85715",
+            "cidade": "NEVES PAULISTA",
+            "estado": "SP",
+            "codMunIbge": "3532504"
+        },
+        {
+            "id": "85723",
+            "cidade": "NHANDEARA",
+            "estado": "SP",
+            "codMunIbge": "3532603"
+        },
+        {
+            "id": "85731",
+            "cidade": "NIPOA",
+            "estado": "SP",
+            "codMunIbge": "3532702"
+        },
+        {
+            "id": "85740",
+            "cidade": "NOGUEIRA",
+            "estado": "SP",
+            "codMunIbge": "3504305"
+        },
+        {
+            "id": "85758",
+            "cidade": "NOSSA SENHORA DO REMEDIO",
+            "estado": "SP",
+            "codMunIbge": "3545001"
+        },
+        {
+            "id": "85766",
+            "cidade": "NOVA ALEXANDRIA",
+            "estado": "SP",
+            "codMunIbge": "3510005"
+        },
+        {
+            "id": "85774",
+            "cidade": "NOVA ALIANCA",
+            "estado": "SP",
+            "codMunIbge": "3532801"
+        },
+        {
+            "id": "85782",
+            "cidade": "NOVA AMERICA",
+            "estado": "SP",
+            "codMunIbge": "3522703"
+        },
+        {
+            "id": "85790",
+            "cidade": "NOVA APARECIDA",
+            "estado": "SP",
+            "codMunIbge": "3509502"
+        },
+        {
+            "id": "85804",
+            "cidade": "NOVA CANAA PAULISTA",
+            "estado": "SP",
+            "codMunIbge": "3532843"
+        },
+        {
+            "id": "85812",
+            "cidade": "NOVA CASTILHO",
+            "estado": "SP",
+            "codMunIbge": "3532868"
+        },
+        {
+            "id": "85820",
+            "cidade": "NOVA EUROPA",
+            "estado": "SP",
+            "codMunIbge": "3532900"
+        },
+        {
+            "id": "85839",
+            "cidade": "NOVA GRANADA",
+            "estado": "SP",
+            "codMunIbge": "3533007"
+        },
+        {
+            "id": "85847",
+            "cidade": "NOVA GUATAPORANGA",
+            "estado": "SP",
+            "codMunIbge": "3533106"
+        },
+        {
+            "id": "85855",
+            "cidade": "NOVA INDEPENDENCIA",
+            "estado": "SP",
+            "codMunIbge": "3533205"
+        },
+        {
+            "id": "85863",
+            "cidade": "NOVA ITAPIREMA",
+            "estado": "SP",
+            "codMunIbge": "3532801"
+        },
+        {
+            "id": "85871",
+            "cidade": "NOVA LUZITANIA",
+            "estado": "SP",
+            "codMunIbge": "3533304"
+        },
+        {
+            "id": "85880",
+            "cidade": "NOVA ODESSA",
+            "estado": "SP",
+            "codMunIbge": "3533403"
+        },
+        {
+            "id": "85898",
+            "cidade": "NOVA PATRIA",
+            "estado": "SP",
+            "codMunIbge": "3541208"
+        },
+        {
+            "id": "85901",
+            "cidade": "NOVA VENEZA",
+            "estado": "SP",
+            "codMunIbge": "3552403"
+        },
+        {
+            "id": "85910",
+            "cidade": "NOVAIS",
+            "estado": "SP",
+            "codMunIbge": "3533254"
+        },
+        {
+            "id": "85928",
+            "cidade": "NOVO CRAVINHOS",
+            "estado": "SP",
+            "codMunIbge": "3540002"
+        },
+        {
+            "id": "85936",
+            "cidade": "NOVO HORIZONTE",
+            "estado": "SP",
+            "codMunIbge": "3533502"
+        },
+        {
+            "id": "85944",
+            "cidade": "NUPORANGA",
+            "estado": "SP",
+            "codMunIbge": "3533601"
+        },
+        {
+            "id": "85952",
+            "cidade": "OASIS",
+            "estado": "SP",
+            "codMunIbge": "3555109"
+        },
+        {
+            "id": "85960",
+            "cidade": "OCAUCU",
+            "estado": "SP",
+            "codMunIbge": "3533700"
+        },
+        {
+            "id": "85979",
+            "cidade": "OLEO",
+            "estado": "SP",
+            "codMunIbge": "3533809"
+        },
+        {
+            "id": "85987",
+            "cidade": "OLIMPIA",
+            "estado": "SP",
+            "codMunIbge": "3533908"
+        },
+        {
+            "id": "85995",
+            "cidade": "ONDA BRANCA",
+            "estado": "SP",
+            "codMunIbge": "3533007"
+        },
+        {
+            "id": "86002",
+            "cidade": "ONDA VERDE",
+            "estado": "SP",
+            "codMunIbge": "3534005"
+        },
+        {
+            "id": "86010",
+            "cidade": "ORIENTE",
+            "estado": "SP",
+            "codMunIbge": "3534104"
+        },
+        {
+            "id": "86029",
+            "cidade": "ORINDIUVA",
+            "estado": "SP",
+            "codMunIbge": "3534203"
+        },
+        {
+            "id": "86037",
+            "cidade": "ORLANDIA",
+            "estado": "SP",
+            "codMunIbge": "3534302"
+        },
+        {
+            "id": "86045",
+            "cidade": "OSASCO",
+            "estado": "SP",
+            "codMunIbge": "3534401"
+        },
+        {
+            "id": "86053",
+            "cidade": "OSCAR BRESSANE",
+            "estado": "SP",
+            "codMunIbge": "3534500"
+        },
+        {
+            "id": "86061",
+            "cidade": "OSVALDO CRUZ",
+            "estado": "SP",
+            "codMunIbge": "3534609"
+        },
+        {
+            "id": "86070",
+            "cidade": "OURINHOS",
+            "estado": "SP",
+            "codMunIbge": "3534708"
+        },
+        {
+            "id": "86088",
+            "cidade": "OURO FINO PAULISTA",
+            "estado": "SP",
+            "codMunIbge": "3543303"
+        },
+        {
+            "id": "86096",
+            "cidade": "OURO VERDE",
+            "estado": "SP",
+            "codMunIbge": "3534807"
+        },
+        {
+            "id": "86118",
+            "cidade": "PACAEMBU",
+            "estado": "SP",
+            "codMunIbge": "3534906"
+        },
+        {
+            "id": "86126",
+            "cidade": "PADRE NOBREGA",
+            "estado": "SP",
+            "codMunIbge": "3529005"
+        },
+        {
+            "id": "86134",
+            "cidade": "PALESTINA",
+            "estado": "SP",
+            "codMunIbge": "3535002"
+        },
+        {
+            "id": "86142",
+            "cidade": "PALMARES PAULISTA",
+            "estado": "SP",
+            "codMunIbge": "3535101"
+        },
+        {
+            "id": "86150",
+            "cidade": "PALMEIRA D'OESTE",
+            "estado": "SP",
+            "codMunIbge": "3535200"
+        },
+        {
+            "id": "86169",
+            "cidade": "PALMEIRAS DE SAO PAULO",
+            "estado": "SP",
+            "codMunIbge": "3535200"
+        },
+        {
+            "id": "86177",
+            "cidade": "PALMITAL",
+            "estado": "SP",
+            "codMunIbge": "3535309"
+        },
+        {
+            "id": "86185",
+            "cidade": "PANORAMA",
+            "estado": "SP",
+            "codMunIbge": "3535408"
+        },
+        {
+            "id": "86193",
+            "cidade": "PARAGUACU PAULISTA",
+            "estado": "SP",
+            "codMunIbge": "3535507"
+        },
+        {
+            "id": "86207",
+            "cidade": "PARAIBUNA",
+            "estado": "SP",
+            "codMunIbge": "3535606"
+        },
+        {
+            "id": "86215",
+            "cidade": "PARAISO",
+            "estado": "SP",
+            "codMunIbge": "3535705"
+        },
+        {
+            "id": "86223",
+            "cidade": "PARAISOLANDIA",
+            "estado": "SP",
+            "codMunIbge": "3511706"
+        },
+        {
+            "id": "86231",
+            "cidade": "PARANABI",
+            "estado": "SP",
+            "codMunIbge": "3520400"
+        },
+        {
+            "id": "86240",
+            "cidade": "PARANAPANEMA",
+            "estado": "SP",
+            "codMunIbge": "3535804"
+        },
+        {
+            "id": "86258",
+            "cidade": "PARANAPIACABA",
+            "estado": "SP",
+            "codMunIbge": "3547809"
+        },
+        {
+            "id": "86266",
+            "cidade": "PARANAPUA",
+            "estado": "SP",
+            "codMunIbge": "3535903"
+        },
+        {
+            "id": "86274",
+            "cidade": "PARAPUA",
+            "estado": "SP",
+            "codMunIbge": "3536000"
+        },
+        {
+            "id": "86282",
+            "cidade": "PARDINHO",
+            "estado": "SP",
+            "codMunIbge": "3536109"
+        },
+        {
+            "id": "86304",
+            "cidade": "PARIQUERA ACU",
+            "estado": "SP",
+            "codMunIbge": "3536208"
+        },
+        {
+            "id": "86312",
+            "cidade": "PARISI",
+            "estado": "SP",
+            "codMunIbge": "3536257"
+        },
+        {
+            "id": "86320",
+            "cidade": "PARNASO",
+            "estado": "SP",
+            "codMunIbge": "3555000"
+        },
+        {
+            "id": "86339",
+            "cidade": "PARQUE MEIA LUA",
+            "estado": "SP",
+            "codMunIbge": "3524402"
+        },
+        {
+            "id": "86347",
+            "cidade": "PARURU",
+            "estado": "SP",
+            "codMunIbge": "3519709"
+        },
+        {
+            "id": "86355",
+            "cidade": "PATROCINIO PAULISTA",
+            "estado": "SP",
+            "codMunIbge": "3536307"
+        },
+        {
+            "id": "86363",
+            "cidade": "PAULICEIA",
+            "estado": "SP",
+            "codMunIbge": "3536406"
+        },
+        {
+            "id": "86371",
+            "cidade": "PAULINIA",
+            "estado": "SP",
+            "codMunIbge": "3536505"
+        },
+        {
+            "id": "86380",
+            "cidade": "PAULISTANIA",
+            "estado": "SP",
+            "codMunIbge": "3536570"
+        },
+        {
+            "id": "86398",
+            "cidade": "PAULO DE FARIA",
+            "estado": "SP",
+            "codMunIbge": "3536604"
+        },
+        {
+            "id": "86401",
+            "cidade": "PAULOPOLIS",
+            "estado": "SP",
+            "codMunIbge": "3540002"
+        },
+        {
+            "id": "86410",
+            "cidade": "PEDERNEIRAS",
+            "estado": "SP",
+            "codMunIbge": "3536703"
+        },
+        {
+            "id": "86428",
+            "cidade": "PEDRA BELA",
+            "estado": "SP",
+            "codMunIbge": "3536802"
+        },
+        {
+            "id": "86436",
+            "cidade": "PEDRANOPOLIS",
+            "estado": "SP",
+            "codMunIbge": "3536901"
+        },
+        {
+            "id": "86444",
+            "cidade": "PEDREGULHO",
+            "estado": "SP",
+            "codMunIbge": "3537008"
+        },
+        {
+            "id": "86452",
+            "cidade": "PEDREIRA",
+            "estado": "SP",
+            "codMunIbge": "3550308"
+        },
+        {
+            "id": "86460",
+            "cidade": "PEDRINHAS PAULISTA",
+            "estado": "SP",
+            "codMunIbge": "3537156"
+        },
+        {
+            "id": "86479",
+            "cidade": "PEDRO BARROS",
+            "estado": "SP",
+            "codMunIbge": "3529906"
+        },
+        {
+            "id": "86487",
+            "cidade": "PEDRO DE TOLEDO",
+            "estado": "SP",
+            "codMunIbge": "3537206"
+        },
+        {
+            "id": "86495",
+            "cidade": "PENAPOLIS",
+            "estado": "SP",
+            "codMunIbge": "3537305"
+        },
+        {
+            "id": "86509",
+            "cidade": "PEREIRA BARRETO",
+            "estado": "SP",
+            "codMunIbge": "3537404"
+        },
+        {
+            "id": "86517",
+            "cidade": "PEREIRAS",
+            "estado": "SP",
+            "codMunIbge": "3537503"
+        },
+        {
+            "id": "86525",
+            "cidade": "PERUIBE",
+            "estado": "SP",
+            "codMunIbge": "3537602"
+        },
+        {
+            "id": "86541",
+            "cidade": "PIACATU",
+            "estado": "SP",
+            "codMunIbge": "3537701"
+        },
+        {
+            "id": "86550",
+            "cidade": "PICINGUABA",
+            "estado": "SP",
+            "codMunIbge": "3555406"
+        },
+        {
+            "id": "86568",
+            "cidade": "PIEDADE",
+            "estado": "SP",
+            "codMunIbge": "3537800"
+        },
+        {
+            "id": "86576",
+            "cidade": "PILAR DO SUL",
+            "estado": "SP",
+            "codMunIbge": "3537909"
+        },
+        {
+            "id": "86584",
+            "cidade": "PINDAMONHANGABA",
+            "estado": "SP",
+            "codMunIbge": "3538006"
+        },
+        {
+            "id": "86592",
+            "cidade": "PINDORAMA",
+            "estado": "SP",
+            "codMunIbge": "3538105"
+        },
+        {
+            "id": "86606",
+            "cidade": "PINHALZINHO",
+            "estado": "SP",
+            "codMunIbge": "3538204"
+        },
+        {
+            "id": "86614",
+            "cidade": "PINHEIROS",
+            "estado": "SP",
+            "codMunIbge": "3526605"
+        },
+        {
+            "id": "86622",
+            "cidade": "PIONEIROS",
+            "estado": "SP",
+            "codMunIbge": "3517703"
+        },
+        {
+            "id": "86630",
+            "cidade": "PIQUEROBI",
+            "estado": "SP",
+            "codMunIbge": "3538303"
+        },
+        {
+            "id": "86649",
+            "cidade": "PIQUETE",
+            "estado": "SP",
+            "codMunIbge": "3538501"
+        },
+        {
+            "id": "86657",
+            "cidade": "PIRACAIA",
+            "estado": "SP",
+            "codMunIbge": "3538600"
+        },
+        {
+            "id": "86665",
+            "cidade": "PIRACICABA",
+            "estado": "SP",
+            "codMunIbge": "3538709"
+        },
+        {
+            "id": "86673",
+            "cidade": "PIRAJU",
+            "estado": "SP",
+            "codMunIbge": "3538808"
+        },
+        {
+            "id": "86681",
+            "cidade": "PIRAJUI",
+            "estado": "SP",
+            "codMunIbge": "3538907"
+        },
+        {
+            "id": "86690",
+            "cidade": "PIRAMBOIA",
+            "estado": "SP",
+            "codMunIbge": "3502309"
+        },
+        {
+            "id": "86703",
+            "cidade": "PIRANGI",
+            "estado": "SP",
+            "codMunIbge": "3539004"
+        },
+        {
+            "id": "86711",
+            "cidade": "PIRAPITINGUI",
+            "estado": "SP",
+            "codMunIbge": "NULL"
+        },
+        {
+            "id": "86720",
+            "cidade": "PIRAPORA DO BOM JESUS",
+            "estado": "SP",
+            "codMunIbge": "3539103"
+        },
+        {
+            "id": "86738",
+            "cidade": "PIRAPOZINHO",
+            "estado": "SP",
+            "codMunIbge": "3539202"
+        },
+        {
+            "id": "86746",
+            "cidade": "PIRASSUNUNGA",
+            "estado": "SP",
+            "codMunIbge": "3539301"
+        },
+        {
+            "id": "86754",
+            "cidade": "PIRATININGA",
+            "estado": "SP",
+            "codMunIbge": "3539400"
+        },
+        {
+            "id": "86762",
+            "cidade": "PITANGUEIRAS",
+            "estado": "SP",
+            "codMunIbge": "3539509"
+        },
+        {
+            "id": "86789",
+            "cidade": "PLATINA",
+            "estado": "SP",
+            "codMunIbge": "3539707"
+        },
+        {
+            "id": "86797",
+            "cidade": "POA",
+            "estado": "SP",
+            "codMunIbge": "3539806"
+        },
+        {
+            "id": "86800",
+            "cidade": "POLONI",
+            "estado": "SP",
+            "codMunIbge": "3539905"
+        },
+        {
+            "id": "86819",
+            "cidade": "POLVILHO",
+            "estado": "SP",
+            "codMunIbge": "3509205"
+        },
+        {
+            "id": "86827",
+            "cidade": "POMPEIA",
+            "estado": "SP",
+            "codMunIbge": "3540002"
+        },
+        {
+            "id": "86835",
+            "cidade": "PONGAI",
+            "estado": "SP",
+            "codMunIbge": "3540101"
+        },
+        {
+            "id": "86843",
+            "cidade": "PONTAL",
+            "estado": "SP",
+            "codMunIbge": "3540200"
+        },
+        {
+            "id": "86851",
+            "cidade": "PONTALINDA",
+            "estado": "SP",
+            "codMunIbge": "3540259"
+        },
+        {
+            "id": "86860",
+            "cidade": "PONTES GESTAL",
+            "estado": "SP",
+            "codMunIbge": "3540309"
+        },
+        {
+            "id": "86878",
+            "cidade": "POPULINA",
+            "estado": "SP",
+            "codMunIbge": "3540408"
+        },
+        {
+            "id": "86886",
+            "cidade": "PORANGABA",
+            "estado": "SP",
+            "codMunIbge": "3540507"
+        },
+        {
+            "id": "86894",
+            "cidade": "PORTO FELIZ",
+            "estado": "SP",
+            "codMunIbge": "3540606"
+        },
+        {
+            "id": "86908",
+            "cidade": "PORTO FERREIRA",
+            "estado": "SP",
+            "codMunIbge": "3540705"
+        },
+        {
+            "id": "86916",
+            "cidade": "PORTO NOVO",
+            "estado": "SP",
+            "codMunIbge": "3510500"
+        },
+        {
+            "id": "86924",
+            "cidade": "PRIMAVERA",
+            "estado": "SP",
+            "codMunIbge": "NULL"
+        },
+        {
+            "id": "86932",
+            "cidade": "POTIM",
+            "estado": "SP",
+            "codMunIbge": "3540754"
+        },
+        {
+            "id": "86940",
+            "cidade": "POTIRENDABA",
+            "estado": "SP",
+            "codMunIbge": "3540804"
+        },
+        {
+            "id": "86959",
+            "cidade": "POTUNDUVA",
+            "estado": "SP",
+            "codMunIbge": "3525300"
+        },
+        {
+            "id": "86967",
+            "cidade": "PRACINHA",
+            "estado": "SP",
+            "codMunIbge": "3540853"
+        },
+        {
+            "id": "86975",
+            "cidade": "PRADINIA",
+            "estado": "SP",
+            "codMunIbge": "3538907"
+        },
+        {
+            "id": "86983",
+            "cidade": "PRADOPOLIS",
+            "estado": "SP",
+            "codMunIbge": "3540903"
+        },
+        {
+            "id": "86991",
+            "cidade": "PRAIA GRANDE",
+            "estado": "SP",
+            "codMunIbge": "3541000"
+        },
+        {
+            "id": "87009",
+            "cidade": "PRATANIA",
+            "estado": "SP",
+            "codMunIbge": "3541059"
+        },
+        {
+            "id": "87017",
+            "cidade": "PRESIDENTE ALVES",
+            "estado": "SP",
+            "codMunIbge": "3541109"
+        },
+        {
+            "id": "87025",
+            "cidade": "PRESIDENTE BERNARDES",
+            "estado": "SP",
+            "codMunIbge": "3541208"
+        },
+        {
+            "id": "87033",
+            "cidade": "PRESIDENTE EPITACIO",
+            "estado": "SP",
+            "codMunIbge": "3541307"
+        },
+        {
+            "id": "87041",
+            "cidade": "PRESIDENTE PRUDENTE",
+            "estado": "SP",
+            "codMunIbge": "3541406"
+        },
+        {
+            "id": "87050",
+            "cidade": "PRESIDENTE VENCESLAU",
+            "estado": "SP",
+            "codMunIbge": "3541505"
+        },
+        {
+            "id": "87068",
+            "cidade": "PROMISSAO",
+            "estado": "SP",
+            "codMunIbge": "3541604"
+        },
+        {
+            "id": "87076",
+            "cidade": "PRUDENCIO E MORAES",
+            "estado": "SP",
+            "codMunIbge": "3516903"
+        },
+        {
+            "id": "87084",
+            "cidade": "QUADRA",
+            "estado": "SP",
+            "codMunIbge": "3541653"
+        },
+        {
+            "id": "87092",
+            "cidade": "QUATA",
+            "estado": "SP",
+            "codMunIbge": "3541703"
+        },
+        {
+            "id": "87106",
+            "cidade": "GUATAPARA",
+            "estado": "SP",
+            "codMunIbge": "3518859"
+        },
+        {
+            "id": "87114",
+            "cidade": "QUEIROZ",
+            "estado": "SP",
+            "codMunIbge": "3541802"
+        },
+        {
+            "id": "87122",
+            "cidade": "QUELUZ",
+            "estado": "SP",
+            "codMunIbge": "3541901"
+        },
+        {
+            "id": "87130",
+            "cidade": "QUINTANA",
+            "estado": "SP",
+            "codMunIbge": "3542008"
+        },
+        {
+            "id": "87149",
+            "cidade": "QUIRIRIM",
+            "estado": "SP",
+            "codMunIbge": "3554102"
+        },
+        {
+            "id": "87157",
+            "cidade": "RAFARD",
+            "estado": "SP",
+            "codMunIbge": "3542107"
+        },
+        {
+            "id": "87165",
+            "cidade": "RANCHARIA",
+            "estado": "SP",
+            "codMunIbge": "3542206"
+        },
+        {
+            "id": "87173",
+            "cidade": "RECHAN",
+            "estado": "SP",
+            "codMunIbge": "3522307"
+        },
+        {
+            "id": "87181",
+            "cidade": "REDENCAO DA SERRA",
+            "estado": "SP",
+            "codMunIbge": "3542305"
+        },
+        {
+            "id": "87190",
+            "cidade": "REGENTE FEIJO",
+            "estado": "SP",
+            "codMunIbge": "3542404"
+        },
+        {
+            "id": "87203",
+            "cidade": "REGINOPOLIS",
+            "estado": "SP",
+            "codMunIbge": "3542503"
+        },
+        {
+            "id": "87211",
+            "cidade": "REGISTRO",
+            "estado": "SP",
+            "codMunIbge": "3542602"
+        },
+        {
+            "id": "87220",
+            "cidade": "RESTINGA",
+            "estado": "SP",
+            "codMunIbge": "3542701"
+        },
+        {
+            "id": "87238",
+            "cidade": "RIACHO GRANDE",
+            "estado": "SP",
+            "codMunIbge": "3548708"
+        },
+        {
+            "id": "87246",
+            "cidade": "RIBEIRA",
+            "estado": "SP",
+            "codMunIbge": "3542800"
+        },
+        {
+            "id": "87254",
+            "cidade": "RIBEIRAO BONITO",
+            "estado": "SP",
+            "codMunIbge": "3542909"
+        },
+        {
+            "id": "87262",
+            "cidade": "RIBEIRAO BRANCO",
+            "estado": "SP",
+            "codMunIbge": "3543006"
+        },
+        {
+            "id": "87270",
+            "cidade": "RIBEIRAO CORRENTE",
+            "estado": "SP",
+            "codMunIbge": "3543105"
+        },
+        {
+            "id": "87289",
+            "cidade": "RIBEIRAO DO SUL",
+            "estado": "SP",
+            "codMunIbge": "3543204"
+        },
+        {
+            "id": "87297",
+            "cidade": "RIBEIRAO DOS INDIOS",
+            "estado": "SP",
+            "codMunIbge": "3543238"
+        },
+        {
+            "id": "87300",
+            "cidade": "RIBEIRAO GRANDE",
+            "estado": "SP",
+            "codMunIbge": "3543253"
+        },
+        {
+            "id": "87319",
+            "cidade": "RIBEIRAO PIRES",
+            "estado": "SP",
+            "codMunIbge": "3543303"
+        },
+        {
+            "id": "87327",
+            "cidade": "RIBEIRAO PRETO",
+            "estado": "SP",
+            "codMunIbge": "3543402"
+        },
+        {
+            "id": "87335",
+            "cidade": "RIBEIRO DO VALE",
+            "estado": "SP",
+            "codMunIbge": "3518206"
+        },
+        {
+            "id": "87343",
+            "cidade": "RIBEIRO DOS SANTOS",
+            "estado": "SP",
+            "codMunIbge": "3533908"
+        },
+        {
+            "id": "87351",
+            "cidade": "RIFAINA",
+            "estado": "SP",
+            "codMunIbge": "3543600"
+        },
+        {
+            "id": "87360",
+            "cidade": "RINCAO",
+            "estado": "SP",
+            "codMunIbge": "3543709"
+        },
+        {
+            "id": "87378",
+            "cidade": "RINOPOLIS",
+            "estado": "SP",
+            "codMunIbge": "3543808"
+        },
+        {
+            "id": "87386",
+            "cidade": "RIO CLARO",
+            "estado": "SP",
+            "codMunIbge": "3543907"
+        },
+        {
+            "id": "87394",
+            "cidade": "RIO DAS PEDRAS",
+            "estado": "SP",
+            "codMunIbge": "3544004"
+        },
+        {
+            "id": "87408",
+            "cidade": "RIO GRANDE DA SERRA",
+            "estado": "SP",
+            "codMunIbge": "3544103"
+        },
+        {
+            "id": "87416",
+            "cidade": "RIOLANDIA",
+            "estado": "SP",
+            "codMunIbge": "3544202"
+        },
+        {
+            "id": "87424",
+            "cidade": "RIVERSUL",
+            "estado": "SP",
+            "codMunIbge": "3543501"
+        },
+        {
+            "id": "87432",
+            "cidade": "ROBERTO",
+            "estado": "SP",
+            "codMunIbge": "3538105"
+        },
+        {
+            "id": "87440",
+            "cidade": "ROSALIA",
+            "estado": "SP",
+            "codMunIbge": "3529005"
+        },
+        {
+            "id": "87459",
+            "cidade": "ROSANA",
+            "estado": "SP",
+            "codMunIbge": "3544251"
+        },
+        {
+            "id": "87467",
+            "cidade": "ROSEIRA",
+            "estado": "SP",
+            "codMunIbge": "3544301"
+        },
+        {
+            "id": "87475",
+            "cidade": "RUBIACEA",
+            "estado": "SP",
+            "codMunIbge": "3544400"
+        },
+        {
+            "id": "87483",
+            "cidade": "RUBIAO JUNIOR",
+            "estado": "SP",
+            "codMunIbge": "3507506"
+        },
+        {
+            "id": "87491",
+            "cidade": "RUBINEIA",
+            "estado": "SP",
+            "codMunIbge": "3544509"
+        },
+        {
+            "id": "87505",
+            "cidade": "RUILANDIA",
+            "estado": "SP",
+            "codMunIbge": "3530300"
+        },
+        {
+            "id": "87513",
+            "cidade": "SABAUNA",
+            "estado": "SP",
+            "codMunIbge": "3530607"
+        },
+        {
+            "id": "87521",
+            "cidade": "SABINO",
+            "estado": "SP",
+            "codMunIbge": "3544608"
+        },
+        {
+            "id": "87530",
+            "cidade": "SAGRES",
+            "estado": "SP",
+            "codMunIbge": "3544707"
+        },
+        {
+            "id": "87548",
+            "cidade": "SALES",
+            "estado": "SP",
+            "codMunIbge": "3544806"
+        },
+        {
+            "id": "87556",
+            "cidade": "SALES OLIVEIRA",
+            "estado": "SP",
+            "codMunIbge": "3544905"
+        },
+        {
+            "id": "87564",
+            "cidade": "SALESOPOLIS",
+            "estado": "SP",
+            "codMunIbge": "3545001"
+        },
+        {
+            "id": "87572",
+            "cidade": "SALMOURAO",
+            "estado": "SP",
+            "codMunIbge": "3545100"
+        },
+        {
+            "id": "87580",
+            "cidade": "SALTINHO",
+            "estado": "SP",
+            "codMunIbge": "3545159"
+        },
+        {
+            "id": "87599",
+            "cidade": "SALTO",
+            "estado": "SP",
+            "codMunIbge": "3545209"
+        },
+        {
+            "id": "87602",
+            "cidade": "SALTO DE PIRAPORA",
+            "estado": "SP",
+            "codMunIbge": "3545308"
+        },
+        {
+            "id": "87610",
+            "cidade": "SALTO DO AVANHANDAVA",
+            "estado": "SP",
+            "codMunIbge": "NULL"
+        },
+        {
+            "id": "87629",
+            "cidade": "SALTO GRANDE",
+            "estado": "SP",
+            "codMunIbge": "3545407"
+        },
+        {
+            "id": "87637",
+            "cidade": "SANDOVALINA",
+            "estado": "SP",
+            "codMunIbge": "3545506"
+        },
+        {
+            "id": "87645",
+            "cidade": "SANTA ADELIA",
+            "estado": "SP",
+            "codMunIbge": "3545605"
+        },
+        {
+            "id": "87653",
+            "cidade": "SANTA ALBERTINA",
+            "estado": "SP",
+            "codMunIbge": "3545704"
+        },
+        {
+            "id": "87661",
+            "cidade": "SANTA AMERICA",
+            "estado": "SP",
+            "codMunIbge": "3517000"
+        },
+        {
+            "id": "87670",
+            "cidade": "SANTA BARBARA D'OESTE",
+            "estado": "SP",
+            "codMunIbge": "3545803"
+        },
+        {
+            "id": "87688",
+            "cidade": "SANTA BRANCA",
+            "estado": "SP",
+            "codMunIbge": "3546009"
+        },
+        {
+            "id": "87696",
+            "cidade": "SANTA CLARA D'OESTE",
+            "estado": "SP",
+            "codMunIbge": "3546108"
+        },
+        {
+            "id": "87718",
+            "cidade": "SANTA CRUZ DA CONCEICAO",
+            "estado": "SP",
+            "codMunIbge": "3546207"
+        },
+        {
+            "id": "87726",
+            "cidade": "SANTA CRUZ DA ESPERANCA",
+            "estado": "SP",
+            "codMunIbge": "3546256"
+        },
+        {
+            "id": "87734",
+            "cidade": "SANTA CRUZ DA ESTRELA",
+            "estado": "SP",
+            "codMunIbge": "3547502"
+        },
+        {
+            "id": "87742",
+            "cidade": "SANTA CRUZ DAS PALMEIRAS",
+            "estado": "SP",
+            "codMunIbge": "3546306"
+        },
+        {
+            "id": "87750",
+            "cidade": "SANTA CRUZ DO RIO PARDO",
+            "estado": "SP",
+            "codMunIbge": "3546405"
+        },
+        {
+            "id": "87769",
+            "cidade": "SANTA ERNESTINA",
+            "estado": "SP",
+            "codMunIbge": "3546504"
+        },
+        {
+            "id": "87777",
+            "cidade": "SANTA EUDOXIA",
+            "estado": "SP",
+            "codMunIbge": "3548906"
+        },
+        {
+            "id": "87785",
+            "cidade": "SANTA FE DO SUL",
+            "estado": "SP",
+            "codMunIbge": "3546603"
+        },
+        {
+            "id": "87793",
+            "cidade": "SANTA GERTRUDES",
+            "estado": "SP",
+            "codMunIbge": "3546702"
+        },
+        {
+            "id": "87807",
+            "cidade": "SANTA ISABEL",
+            "estado": "SP",
+            "codMunIbge": "3546801"
+        },
+        {
+            "id": "87815",
+            "cidade": "SANTA ISABEL DO MARINHEIRO",
+            "estado": "SP",
+            "codMunIbge": "3536901"
+        },
+        {
+            "id": "87823",
+            "cidade": "SANTA LUCIA",
+            "estado": "SP",
+            "codMunIbge": "3546900"
+        },
+        {
+            "id": "87831",
+            "cidade": "SANTA MARGARIDA PAULISTA",
+            "estado": "SP",
+            "codMunIbge": "3515707"
+        },
+        {
+            "id": "87840",
+            "cidade": "SANTA MARIA DA SERRA",
+            "estado": "SP",
+            "codMunIbge": "3547007"
+        },
+        {
+            "id": "87858",
+            "cidade": "SANTA MARIA DO GURUPA",
+            "estado": "SP",
+            "codMunIbge": "3541604"
+        },
+        {
+            "id": "87866",
+            "cidade": "SANTA MERCEDES",
+            "estado": "SP",
+            "codMunIbge": "3547106"
+        },
+        {
+            "id": "87874",
+            "cidade": "SANTA RITA D'OESTE",
+            "estado": "SP",
+            "codMunIbge": "3547403"
+        },
+        {
+            "id": "87882",
+            "cidade": "SANTA RITA DO PASSA QUATRO",
+            "estado": "SP",
+            "codMunIbge": "3547502"
+        },
+        {
+            "id": "87890",
+            "cidade": "SANTA RITA DO RIBEIRA",
+            "estado": "SP",
+            "codMunIbge": "3529906"
+        },
+        {
+            "id": "87904",
+            "cidade": "SANTA ROSA DE VITERBO",
+            "estado": "SP",
+            "codMunIbge": "3547601"
+        },
+        {
+            "id": "87912",
+            "cidade": "SANTA SALETE",
+            "estado": "SP",
+            "codMunIbge": "3547650"
+        },
+        {
+            "id": "87920",
+            "cidade": "SANTA TERESINHA DE PIRACICABA",
+            "estado": "SP",
+            "codMunIbge": "3538709"
+        },
+        {
+            "id": "87947",
+            "cidade": "SANTANA DA PONTE PENSA",
+            "estado": "SP",
+            "codMunIbge": "3547205"
+        },
+        {
+            "id": "87955",
+            "cidade": "SANTANA DE PARNAIBA",
+            "estado": "SP",
+            "codMunIbge": "3547304"
+        },
+        {
+            "id": "87963",
+            "cidade": "SANTELMO",
+            "estado": "SP",
+            "codMunIbge": "3536703"
+        },
+        {
+            "id": "87971",
+            "cidade": "SANTO ANASTACIO",
+            "estado": "SP",
+            "codMunIbge": "3547700"
+        },
+        {
+            "id": "87980",
+            "cidade": "SANTO ANDRE",
+            "estado": "SP",
+            "codMunIbge": "3547809"
+        },
+        {
+            "id": "87998",
+            "cidade": "SANTO ANTONIO DA ALEGRIA",
+            "estado": "SP",
+            "codMunIbge": "3547908"
+        },
+        {
+            "id": "88005",
+            "cidade": "SANTO ANTONIO DA ESTIVA",
+            "estado": "SP",
+            "codMunIbge": "3538907"
+        },
+        {
+            "id": "88013",
+            "cidade": "SANTO ANTONIO DE POSSE",
+            "estado": "SP",
+            "codMunIbge": "3548005"
+        },
+        {
+            "id": "88021",
+            "cidade": "SANTO ANTONIO DO ARACANGUA",
+            "estado": "SP",
+            "codMunIbge": "3548054"
+        },
+        {
+            "id": "88030",
+            "cidade": "SANTO ANTONIO DO JARDIM",
+            "estado": "SP",
+            "codMunIbge": "3548104"
+        },
+        {
+            "id": "88048",
+            "cidade": "SANTO ANTONIO DO PARANAPANEMA",
+            "estado": "SP",
+            "codMunIbge": "3510005"
+        },
+        {
+            "id": "88056",
+            "cidade": "SANTO ANTONIO DO PINHAL",
+            "estado": "SP",
+            "codMunIbge": "3548203"
+        },
+        {
+            "id": "88064",
+            "cidade": "SANTO ANTONIO PAULISTA",
+            "estado": "SP",
+            "codMunIbge": "3515707"
+        },
+        {
+            "id": "88072",
+            "cidade": "SANTO EXPEDITO",
+            "estado": "SP",
+            "codMunIbge": "3548302"
+        },
+        {
+            "id": "88080",
+            "cidade": "SANTOPOLIS DO AGUAPEI",
+            "estado": "SP",
+            "codMunIbge": "3548401"
+        },
+        {
+            "id": "88099",
+            "cidade": "SANTOS",
+            "estado": "SP",
+            "codMunIbge": "3548500"
+        },
+        {
+            "id": "88102",
+            "cidade": "SAO BENEDITO DA CACHOEIRINHA",
+            "estado": "SP",
+            "codMunIbge": "3524105"
+        },
+        {
+            "id": "88110",
+            "cidade": "SAO BENEDITO DAS AREIAS",
+            "estado": "SP",
+            "codMunIbge": "3530508"
+        },
+        {
+            "id": "88129",
+            "cidade": "SAO BENTO DO SAPUCAI",
+            "estado": "SP",
+            "codMunIbge": "3548609"
+        },
+        {
+            "id": "88137",
+            "cidade": "SAO BERNARDO DO CAMPO",
+            "estado": "SP",
+            "codMunIbge": "3548708"
+        },
+        {
+            "id": "88145",
+            "cidade": "SAO BERTO",
+            "estado": "SP",
+            "codMunIbge": "3528601"
+        },
+        {
+            "id": "88153",
+            "cidade": "SAO CAETANO DO SUL",
+            "estado": "SP",
+            "codMunIbge": "3548807"
+        },
+        {
+            "id": "88161",
+            "cidade": "SAO CARLOS",
+            "estado": "SP",
+            "codMunIbge": "3548906"
+        },
+        {
+            "id": "88170",
+            "cidade": "SAO FRANCISCO",
+            "estado": "SP",
+            "codMunIbge": "3549003"
+        },
+        {
+            "id": "88188",
+            "cidade": "SAO FRANCISCO DA PRAIA",
+            "estado": "SP",
+            "codMunIbge": "3550704"
+        },
+        {
+            "id": "88196",
+            "cidade": "SAO FRANCISCO XAVIER",
+            "estado": "SP",
+            "codMunIbge": "3549904"
+        },
+        {
+            "id": "88200",
+            "cidade": "SAO JOAO DA BOA VISTA",
+            "estado": "SP",
+            "codMunIbge": "3549102"
+        },
+        {
+            "id": "88218",
+            "cidade": "SAO JOAO DAS DUAS PONTES",
+            "estado": "SP",
+            "codMunIbge": "3549201"
+        },
+        {
+            "id": "88226",
+            "cidade": "SAO JOAO DE IRACEMA",
+            "estado": "SP",
+            "codMunIbge": "3549250"
+        },
+        {
+            "id": "88234",
+            "cidade": "SAO JOAO DE ITAGUACU",
+            "estado": "SP",
+            "codMunIbge": "3556008"
+        },
+        {
+            "id": "88242",
+            "cidade": "SAO JOAO DO MARINHEIRO",
+            "estado": "SP",
+            "codMunIbge": "3510708"
+        },
+        {
+            "id": "88250",
+            "cidade": "SAO JOAO DO PAU D'ALHO",
+            "estado": "SP",
+            "codMunIbge": "3549300"
+        },
+        {
+            "id": "88269",
+            "cidade": "SAO JOAO NOVO",
+            "estado": "SP",
+            "codMunIbge": "3550605"
+        },
+        {
+            "id": "88277",
+            "cidade": "SAO JOAQUIM DA BARRA",
+            "estado": "SP",
+            "codMunIbge": "3549409"
+        },
+        {
+            "id": "88285",
+            "cidade": "SAO JOSE DA BELA VISTA",
+            "estado": "SP",
+            "codMunIbge": "3549508"
+        },
+        {
+            "id": "88293",
+            "cidade": "SAO JOSE DAS LARANJEIRAS",
+            "estado": "SP",
+            "codMunIbge": "3528809"
+        },
+        {
+            "id": "88307",
+            "cidade": "SAO JOSE DO BARREIRO",
+            "estado": "SP",
+            "codMunIbge": "3549607"
+        },
+        {
+            "id": "88315",
+            "cidade": "SAO JOSE DO RIO PARDO",
+            "estado": "SP",
+            "codMunIbge": "3549706"
+        },
+        {
+            "id": "88323",
+            "cidade": "SAO JOSE DO RIO PRETO",
+            "estado": "SP",
+            "codMunIbge": "3549805"
+        },
+        {
+            "id": "88331",
+            "cidade": "SAO JOSE DOS CAMPOS",
+            "estado": "SP",
+            "codMunIbge": "3549904"
+        },
+        {
+            "id": "88340",
+            "cidade": "SAO LOURENCO DA SERRA",
+            "estado": "SP",
+            "codMunIbge": "3549953"
+        },
+        {
+            "id": "88358",
+            "cidade": "SAO LOURENCO DO TURVO",
+            "estado": "SP",
+            "codMunIbge": "3529302"
+        },
+        {
+            "id": "88366",
+            "cidade": "SAO LUIZ DO PARAITINGA",
+            "estado": "SP",
+            "codMunIbge": "3550001"
+        },
+        {
+            "id": "88374",
+            "cidade": "SAO MANUEL",
+            "estado": "SP",
+            "codMunIbge": "3550100"
+        },
+        {
+            "id": "88382",
+            "cidade": "SAO MARTINHO D'OESTE",
+            "estado": "SP",
+            "codMunIbge": "3501103"
+        },
+        {
+            "id": "88390",
+            "cidade": "SAO MIGUEL ARCANJO",
+            "estado": "SP",
+            "codMunIbge": "3550209"
+        },
+        {
+            "id": "88412",
+            "cidade": "SAO PAULO",
+            "estado": "SP",
+            "codMunIbge": "3550308"
+        },
+        {
+            "id": "88420",
+            "cidade": "SAO PEDRO",
+            "estado": "SP",
+            "codMunIbge": "3550407"
+        },
+        {
+            "id": "88439",
+            "cidade": "SAO PEDRO DO TURVO",
+            "estado": "SP",
+            "codMunIbge": "3550506"
+        },
+        {
+            "id": "88447",
+            "cidade": "SAO ROQUE",
+            "estado": "SP",
+            "codMunIbge": "3550605"
+        },
+        {
+            "id": "88463",
+            "cidade": "SAO SEBASTIAO",
+            "estado": "SP",
+            "codMunIbge": "3550704"
+        },
+        {
+            "id": "88471",
+            "cidade": "SAO SEBASTIAO DA GRAMA",
+            "estado": "SP",
+            "codMunIbge": "3550803"
+        },
+        {
+            "id": "88480",
+            "cidade": "SAO SEBASTIAO DA SERRA",
+            "estado": "SP",
+            "codMunIbge": "3507902"
+        },
+        {
+            "id": "88498",
+            "cidade": "SAO SILVESTRE DE JACAREI",
+            "estado": "SP",
+            "codMunIbge": "3524402"
+        },
+        {
+            "id": "88501",
+            "cidade": "SAO SIMAO",
+            "estado": "SP",
+            "codMunIbge": "3550902"
+        },
+        {
+            "id": "88510",
+            "cidade": "SAO VICENTE",
+            "estado": "SP",
+            "codMunIbge": "3551009"
+        },
+        {
+            "id": "88528",
+            "cidade": "SAPEZAL",
+            "estado": "SP",
+            "codMunIbge": "3535507"
+        },
+        {
+            "id": "88536",
+            "cidade": "SARAPUI",
+            "estado": "SP",
+            "codMunIbge": "3551108"
+        },
+        {
+            "id": "88544",
+            "cidade": "SARUTAIA",
+            "estado": "SP",
+            "codMunIbge": "3551207"
+        },
+        {
+            "id": "88552",
+            "cidade": "SEBASTIANOPOLIS DO SUL",
+            "estado": "SP",
+            "codMunIbge": "3551306"
+        },
+        {
+            "id": "88560",
+            "cidade": "SERRA AZUL",
+            "estado": "SP",
+            "codMunIbge": "3551405"
+        },
+        {
+            "id": "88579",
+            "cidade": "SERRA NEGRA",
+            "estado": "SP",
+            "codMunIbge": "3551603"
+        },
+        {
+            "id": "88587",
+            "cidade": "SERRANA",
+            "estado": "SP",
+            "codMunIbge": "3551504"
+        },
+        {
+            "id": "88595",
+            "cidade": "SERTAOZINHO",
+            "estado": "SP",
+            "codMunIbge": "3551702"
+        },
+        {
+            "id": "88609",
+            "cidade": "SETE BARRAS",
+            "estado": "SP",
+            "codMunIbge": "3551801"
+        },
+        {
+            "id": "88617",
+            "cidade": "SEVERINIA",
+            "estado": "SP",
+            "codMunIbge": "3551900"
+        },
+        {
+            "id": "88625",
+            "cidade": "SILVEIRAS",
+            "estado": "SP",
+            "codMunIbge": "3552007"
+        },
+        {
+            "id": "88633",
+            "cidade": "SIMOES",
+            "estado": "SP",
+            "codMunIbge": "3508801"
+        },
+        {
+            "id": "88641",
+            "cidade": "SIMONSEN",
+            "estado": "SP",
+            "codMunIbge": "3557105"
+        },
+        {
+            "id": "88650",
+            "cidade": "SOCORRO",
+            "estado": "SP",
+            "codMunIbge": "3552106"
+        },
+        {
+            "id": "88668",
+            "cidade": "SODRELIA",
+            "estado": "SP",
+            "codMunIbge": "3546405"
+        },
+        {
+            "id": "88676",
+            "cidade": "SOLEMAR",
+            "estado": "SP",
+            "codMunIbge": "3541000"
+        },
+        {
+            "id": "88684",
+            "cidade": "SOROCABA",
+            "estado": "SP",
+            "codMunIbge": "3552205"
+        },
+        {
+            "id": "88692",
+            "cidade": "SOUSAS",
+            "estado": "SP",
+            "codMunIbge": "NULL"
+        },
+        {
+            "id": "88706",
+            "cidade": "SUD MENNUCCI",
+            "estado": "SP",
+            "codMunIbge": "3552304"
+        },
+        {
+            "id": "88714",
+            "cidade": "SUMARE",
+            "estado": "SP",
+            "codMunIbge": "3552403"
+        },
+        {
+            "id": "88722",
+            "cidade": "SUZANAPOLIS",
+            "estado": "SP",
+            "codMunIbge": "3552551"
+        },
+        {
+            "id": "88730",
+            "cidade": "SUSSUI",
+            "estado": "SP",
+            "codMunIbge": "3535309"
+        },
+        {
+            "id": "88749",
+            "cidade": "SUZANO",
+            "estado": "SP",
+            "codMunIbge": "3552502"
+        },
+        {
+            "id": "88757",
+            "cidade": "TABAJARA",
+            "estado": "SP",
+            "codMunIbge": "3526506"
+        },
+        {
+            "id": "88765",
+            "cidade": "TABAPUA",
+            "estado": "SP",
+            "codMunIbge": "3552601"
+        },
+        {
+            "id": "88773",
+            "cidade": "TABATINGA",
+            "estado": "SP",
+            "codMunIbge": "3552700"
+        },
+        {
+            "id": "88781",
+            "cidade": "TABOAO DA SERRA",
+            "estado": "SP",
+            "codMunIbge": "3552809"
+        },
+        {
+            "id": "88790",
+            "cidade": "TACIBA",
+            "estado": "SP",
+            "codMunIbge": "3552908"
+        },
+        {
+            "id": "88803",
+            "cidade": "TAGUAI",
+            "estado": "SP",
+            "codMunIbge": "3553005"
+        },
+        {
+            "id": "88811",
+            "cidade": "TAIACU",
+            "estado": "SP",
+            "codMunIbge": "3553104"
+        },
+        {
+            "id": "88820",
+            "cidade": "TAIACUPEBA",
+            "estado": "SP",
+            "codMunIbge": "3530607"
+        },
+        {
+            "id": "88838",
+            "cidade": "TAIUVA",
+            "estado": "SP",
+            "codMunIbge": "3553203"
+        },
+        {
+            "id": "88846",
+            "cidade": "TALHADO",
+            "estado": "SP",
+            "codMunIbge": "3549805"
+        },
+        {
+            "id": "88854",
+            "cidade": "TAMBAU",
+            "estado": "SP",
+            "codMunIbge": "3553302"
+        },
+        {
+            "id": "88862",
+            "cidade": "TANABI",
+            "estado": "SP",
+            "codMunIbge": "3553401"
+        },
+        {
+            "id": "88870",
+            "cidade": "TAPINAS",
+            "estado": "SP",
+            "codMunIbge": "3522703"
+        },
+        {
+            "id": "88889",
+            "cidade": "TAPIRAI",
+            "estado": "SP",
+            "codMunIbge": "3553500"
+        },
+        {
+            "id": "88897",
+            "cidade": "TAPIRATIBA",
+            "estado": "SP",
+            "codMunIbge": "3553609"
+        },
+        {
+            "id": "88900",
+            "cidade": "TAQUARAL",
+            "estado": "SP",
+            "codMunIbge": "3553658"
+        },
+        {
+            "id": "88919",
+            "cidade": "TAQUARITINGA",
+            "estado": "SP",
+            "codMunIbge": "3553708"
+        },
+        {
+            "id": "88927",
+            "cidade": "TAQUARITUBA",
+            "estado": "SP",
+            "codMunIbge": "3553807"
+        },
+        {
+            "id": "88935",
+            "cidade": "TAQUARIVAI",
+            "estado": "SP",
+            "codMunIbge": "3553856"
+        },
+        {
+            "id": "88943",
+            "cidade": "TARABAI",
+            "estado": "SP",
+            "codMunIbge": "3553906"
+        },
+        {
+            "id": "88951",
+            "cidade": "TARUMA",
+            "estado": "SP",
+            "codMunIbge": "3553955"
+        },
+        {
+            "id": "88960",
+            "cidade": "TATUI",
+            "estado": "SP",
+            "codMunIbge": "3554003"
+        },
+        {
+            "id": "88978",
+            "cidade": "TAUBATE",
+            "estado": "SP",
+            "codMunIbge": "3554102"
+        },
+        {
+            "id": "88986",
+            "cidade": "TECAINDA",
+            "estado": "SP",
+            "codMunIbge": "3529203"
+        },
+        {
+            "id": "88994",
+            "cidade": "TEJUPA",
+            "estado": "SP",
+            "codMunIbge": "3554201"
+        },
+        {
+            "id": "89001",
+            "cidade": "TEODORO SAMPAIO",
+            "estado": "SP",
+            "codMunIbge": "3554300"
+        },
+        {
+            "id": "89028",
+            "cidade": "TERRA NOVA D'OESTE",
+            "estado": "SP",
+            "codMunIbge": "3547106"
+        },
+        {
+            "id": "89036",
+            "cidade": "TERRA ROXA",
+            "estado": "SP",
+            "codMunIbge": "3554409"
+        },
+        {
+            "id": "89044",
+            "cidade": "TIBIRICA",
+            "estado": "SP",
+            "codMunIbge": "3506003"
+        },
+        {
+            "id": "89052",
+            "cidade": "TIETE",
+            "estado": "SP",
+            "codMunIbge": "3554508"
+        },
+        {
+            "id": "89060",
+            "cidade": "TIMBURI",
+            "estado": "SP",
+            "codMunIbge": "3554607"
+        },
+        {
+            "id": "89079",
+            "cidade": "TORRE DE PEDRA",
+            "estado": "SP",
+            "codMunIbge": "3554656"
+        },
+        {
+            "id": "89087",
+            "cidade": "TORRINHA",
+            "estado": "SP",
+            "codMunIbge": "3554706"
+        },
+        {
+            "id": "89095",
+            "cidade": "TRABIJU",
+            "estado": "SP",
+            "codMunIbge": "3554755"
+        },
+        {
+            "id": "89109",
+            "cidade": "TREMEMBE",
+            "estado": "SP",
+            "codMunIbge": "3554805"
+        },
+        {
+            "id": "89117",
+            "cidade": "TRES ALIANCAS",
+            "estado": "SP",
+            "codMunIbge": "3530102"
+        },
+        {
+            "id": "89125",
+            "cidade": "TRES FRONTEIRAS",
+            "estado": "SP",
+            "codMunIbge": "3554904"
+        },
+        {
+            "id": "89133",
+            "cidade": "TRES PONTES",
+            "estado": "SP",
+            "codMunIbge": "3501905"
+        },
+        {
+            "id": "89141",
+            "cidade": "TUIUTI",
+            "estado": "SP",
+            "codMunIbge": "3554953"
+        },
+        {
+            "id": "89150",
+            "cidade": "TUJUGUABA",
+            "estado": "SP",
+            "codMunIbge": "3512209"
+        },
+        {
+            "id": "89168",
+            "cidade": "TUPA",
+            "estado": "SP",
+            "codMunIbge": "3555000"
+        },
+        {
+            "id": "89176",
+            "cidade": "TUPI",
+            "estado": "SP",
+            "codMunIbge": "3538709"
+        },
+        {
+            "id": "89184",
+            "cidade": "TUPI PAULISTA",
+            "estado": "SP",
+            "codMunIbge": "3555109"
+        },
+        {
+            "id": "89192",
+            "cidade": "TURIBA DO SUL",
+            "estado": "SP",
+            "codMunIbge": "3521705"
+        },
+        {
+            "id": "89206",
+            "cidade": "TURIUBA",
+            "estado": "SP",
+            "codMunIbge": "3555208"
+        },
+        {
+            "id": "89214",
+            "cidade": "TURMALINA",
+            "estado": "SP",
+            "codMunIbge": "3555307"
+        },
+        {
+            "id": "89222",
+            "cidade": "TURVINIA",
+            "estado": "SP",
+            "codMunIbge": "3506102"
+        },
+        {
+            "id": "89230",
+            "cidade": "UBARANA",
+            "estado": "SP",
+            "codMunIbge": "3555356"
+        },
+        {
+            "id": "89249",
+            "cidade": "UBATUBA",
+            "estado": "SP",
+            "codMunIbge": "3555406"
+        },
+        {
+            "id": "89257",
+            "cidade": "UBIRAJARA",
+            "estado": "SP",
+            "codMunIbge": "3555505"
+        },
+        {
+            "id": "89265",
+            "cidade": "UCHOA",
+            "estado": "SP",
+            "codMunIbge": "3555604"
+        },
+        {
+            "id": "89273",
+            "cidade": "UNIAO PAULISTA",
+            "estado": "SP",
+            "codMunIbge": "3555703"
+        },
+        {
+            "id": "89281",
+            "cidade": "UNIVERSO",
+            "estado": "SP",
+            "codMunIbge": "3555000"
+        },
+        {
+            "id": "89290",
+            "cidade": "URANIA",
+            "estado": "SP",
+            "codMunIbge": "3555802"
+        },
+        {
+            "id": "89303",
+            "cidade": "URU",
+            "estado": "SP",
+            "codMunIbge": "3555901"
+        },
+        {
+            "id": "89311",
+            "cidade": "URUPES",
+            "estado": "SP",
+            "codMunIbge": "3556008"
+        },
+        {
+            "id": "89320",
+            "cidade": "URURAI",
+            "estado": "SP",
+            "codMunIbge": "3545605"
+        },
+        {
+            "id": "89338",
+            "cidade": "VALE FORMOSO",
+            "estado": "SP",
+            "codMunIbge": "3533502"
+        },
+        {
+            "id": "89346",
+            "cidade": "VALENTIM GENTIL",
+            "estado": "SP",
+            "codMunIbge": "3556107"
+        },
+        {
+            "id": "89354",
+            "cidade": "VALINHOS",
+            "estado": "SP",
+            "codMunIbge": "3556206"
+        },
+        {
+            "id": "89362",
+            "cidade": "VALPARAISO",
+            "estado": "SP",
+            "codMunIbge": "3556305"
+        },
+        {
+            "id": "89370",
+            "cidade": "VANGLORIA",
+            "estado": "SP",
+            "codMunIbge": "3536703"
+        },
+        {
+            "id": "89389",
+            "cidade": "VARGEM",
+            "estado": "SP",
+            "codMunIbge": "3556354"
+        },
+        {
+            "id": "89397",
+            "cidade": "VARGEM GRANDE DO SUL",
+            "estado": "SP",
+            "codMunIbge": "3556404"
+        },
+        {
+            "id": "89400",
+            "cidade": "VARGEM GRANDE PAULISTA",
+            "estado": "SP",
+            "codMunIbge": "3556453"
+        },
+        {
+            "id": "89419",
+            "cidade": "VARPA",
+            "estado": "SP",
+            "codMunIbge": "3555000"
+        },
+        {
+            "id": "89427",
+            "cidade": "VARZEA PAULISTA",
+            "estado": "SP",
+            "codMunIbge": "3556503"
+        },
+        {
+            "id": "89435",
+            "cidade": "VENDA BRANCA",
+            "estado": "SP",
+            "codMunIbge": "3510807"
+        },
+        {
+            "id": "89443",
+            "cidade": "VERA CRUZ",
+            "estado": "SP",
+            "codMunIbge": "3556602"
+        },
+        {
+            "id": "89451",
+            "cidade": "VICENTE DE CARVALHO",
+            "estado": "SP",
+            "codMunIbge": "3518701"
+        },
+        {
+            "id": "89478",
+            "cidade": "VILA NERY",
+            "estado": "SP",
+            "codMunIbge": "3548906"
+        },
+        {
+            "id": "89486",
+            "cidade": "VILA XAVIER",
+            "estado": "SP",
+            "codMunIbge": "3503208"
+        },
+        {
+            "id": "89494",
+            "cidade": "VINHEDO",
+            "estado": "SP",
+            "codMunIbge": "3556701"
+        },
+        {
+            "id": "89508",
+            "cidade": "VIRADOURO",
+            "estado": "SP",
+            "codMunIbge": "3556800"
+        },
+        {
+            "id": "89516",
+            "cidade": "VISTA ALEGRE DO ALTO",
+            "estado": "SP",
+            "codMunIbge": "3556909"
+        },
+        {
+            "id": "89524",
+            "cidade": "VITORIA BRASIL",
+            "estado": "SP",
+            "codMunIbge": "3556958"
+        },
+        {
+            "id": "89532",
+            "cidade": "VITORIANA",
+            "estado": "SP",
+            "codMunIbge": "3507506"
+        },
+        {
+            "id": "89540",
+            "cidade": "VOTORANTIM",
+            "estado": "SP",
+            "codMunIbge": "3557006"
+        },
+        {
+            "id": "89559",
+            "cidade": "VOTUPORANGA",
+            "estado": "SP",
+            "codMunIbge": "3557105"
+        },
+        {
+            "id": "89567",
+            "cidade": "ZACARIAS",
+            "estado": "SP",
+            "codMunIbge": "3557154"
+        },
+        {
+            "id": "89770",
+            "cidade": "BARAO DE GERALDO",
+            "estado": "SP",
+            "codMunIbge": "3509502"
+        },
+        {
+            "id": "91260",
+            "cidade": "BOTUJURU",
+            "estado": "SP",
+            "codMunIbge": "3530607"
+        },
+        {
+            "id": "91278",
+            "cidade": "BOM RETIRO DA ESPERANCA",
+            "estado": "SP",
+            "codMunIbge": "3502200"
+        },
+        {
+            "id": "91286",
+            "cidade": "JACARE",
+            "estado": "SP",
+            "codMunIbge": "3508405"
+        },
+        {
+            "id": "91294",
+            "cidade": "SANTA CRUZ DOS LOPES",
+            "estado": "SP",
+            "codMunIbge": "3523206"
+        },
+        {
+            "id": "91308",
+            "cidade": "PEDRA BRANCA DE ITARARE",
+            "estado": "SP",
+            "codMunIbge": "3523206"
+        },
+        {
+            "id": "91316",
+            "cidade": "BOM SUCESSO DE ITARARE",
+            "estado": "SP",
+            "codMunIbge": "3507159"
+        },
+        {
+            "id": "91324",
+            "cidade": "OLIVEIRA BARROS",
+            "estado": "SP",
+            "codMunIbge": "3529906"
+        },
+        {
+            "id": "91332",
+            "cidade": "JARDIM SANTA LUZIA",
+            "estado": "SP",
+            "codMunIbge": "3543303"
+        },
+        {
+            "id": "91340",
+            "cidade": "VILA DIRCE",
+            "estado": "SP",
+            "codMunIbge": "3510609"
+        },
+        {
+            "id": "91367",
+            "cidade": "PLANALTO DO SUL",
+            "estado": "SP",
+            "codMunIbge": "3554300"
+        },
+        {
+            "id": "91375",
+            "cidade": "TIBIRICA DO PARANAPANEMA",
+            "estado": "SP",
+            "codMunIbge": "3538808"
+        },
+        {
+            "id": "91383",
+            "cidade": "APARECIDA DE MONTE ALTO",
+            "estado": "SP",
+            "codMunIbge": "3531308"
+        },
+        {
+            "id": "92037",
+            "cidade": "CAPUAVA",
+            "estado": "SP",
+            "codMunIbge": "3547809"
+        },
+        {
+            "id": "92045",
+            "cidade": "ALDEIA DE CARAPICUIBA",
+            "estado": "SP",
+            "codMunIbge": "3510609"
+        },
+        {
+            "id": "95800",
+            "cidade": "ANDES",
+            "estado": "SP",
+            "codMunIbge": "3506102"
+        },
+        {
+            "id": "95818",
+            "cidade": "SILVANIA",
+            "estado": "SP",
+            "codMunIbge": "5220603"
+        },
+        {
+            "id": "96300",
+            "cidade": "ILHA COMPRIDA",
+            "estado": "SP",
+            "codMunIbge": "3520426"
+        },
+        {
+            "id": "96695",
+            "cidade": "TRES VENDAS",
+            "estado": "SP",
+            "codMunIbge": "NULL"
+        },
+        {
+            "id": "96709",
+            "cidade": "TOLEDO",
+            "estado": "SP",
+            "codMunIbge": "NULL"
+        },
+        {
+            "id": "96717",
+            "cidade": "PLANALTO",
+            "estado": "SP",
+            "codMunIbge": "3539608"
+        },
+        {
+            "id": "96741",
+            "cidade": "VICENTINOPOLIS",
+            "estado": "SP",
+            "codMunIbge": "3548054"
+        },
+        {
+            "id": "96750",
+            "cidade": "MAJOR PRADO",
+            "estado": "SP",
+            "codMunIbge": "3548054"
+        },
+        {
+            "id": "99901",
+            "cidade": "JEFERSON",
+            "estado": "SP",
+            "codMunIbge": "NULL"
+        },
+        {
+            "id": "105244",
+            "cidade": "UTINGA",
+            "estado": "SP",
+            "codMunIbge": "NULL"
+        },
+        {
+            "id": "105252",
+            "cidade": "HOLAMBRA II",
+            "estado": "SP",
+            "codMunIbge": "3519055"
+        },
+        {
+            "id": "105260",
+            "cidade": "CIPO GUACU",
+            "estado": "SP",
+            "codMunIbge": "3515103"
+        },
+        {
+            "id": "105279",
+            "cidade": "CARUARA",
+            "estado": "SP",
+            "codMunIbge": "NULL"
+        },
+        {
+            "id": "105287",
+            "cidade": "CAIBURA",
+            "estado": "SP",
+            "codMunIbge": "NULL"
+        },
+        {
+            "id": "105295",
+            "cidade": "MONTE CABRAO",
+            "estado": "SP",
+            "codMunIbge": "NULL"
+        },
+        {
+            "id": "105309",
+            "cidade": "ILHA DIANA",
+            "estado": "SP",
+            "codMunIbge": "NULL"
+        },
+        {
+            "id": "105317",
+            "cidade": "BANDEIRANTES D'OESTE",
+            "estado": "SP",
+            "codMunIbge": "3552304"
+        },
+        {
+            "id": "105325",
+            "cidade": "SUINANA",
+            "estado": "SP",
+            "codMunIbge": "3500907"
+        },
+        {
+            "id": "105333",
+            "cidade": "OUROESTE",
+            "estado": "SP",
+            "codMunIbge": "3534757"
+        },
+        {
+            "id": "105341",
+            "cidade": "CARDOSO",
+            "estado": "SP",
+            "codMunIbge": "3510708"
+        },
+        {
+            "id": "105350",
+            "cidade": "COCAES",
+            "estado": "SP",
+            "codMunIbge": "3551108"
+        },
+        {
+            "id": "105368",
+            "cidade": "FAZENDA VELHA",
+            "estado": "SP",
+            "codMunIbge": "3511607"
+        },
+        {
+            "id": "105376",
+            "cidade": "ITABOA",
+            "estado": "SP",
+            "codMunIbge": "3543006"
+        },
+        {
+            "id": "105384",
+            "cidade": "CAMPINA DE FORA",
+            "estado": "SP",
+            "codMunIbge": "3543006"
+        },
+        {
+            "id": "105589",
+            "cidade": "TERMAS DE IBIRA",
+            "estado": "SP",
+            "codMunIbge": "3519402"
+        },
+        {
+            "id": "105597",
+            "cidade": "APIAI MIRIM",
+            "estado": "SP",
+            "codMunIbge": "3510203"
+        },
+        {
+            "id": "105783",
+            "cidade": "ENGENHEIRO MAIA",
+            "estado": "SP",
+            "codMunIbge": "NULL"
+        },
+        {
+            "id": "108349",
+            "cidade": "A DEFINIR",
+            "estado": "SP",
+            "codMunIbge": "NULL"
+        },
+        {
+            "id": "3532900",
+            "cidade": "ERRADO",
+            "estado": "SP",
+            "codMunIbge": "NULL"
+        }
+    ]
+}
+}
